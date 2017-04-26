@@ -20,7 +20,7 @@ iskall85 Presents
 
 ## ** NOTE **
 
-3. Reverted Simply Conveyors in attempt to resolve issue with corrupted worlds.
+1. Reverted Simply Conveyors in attempt to resolve issue with corrupted worlds.
 
 ## Core Mods Updated
  - Simply Conveyors & More by Zundrel [1.10.2-1.4.2](https://minecraft.curseforge.com/projects/simply-conveyors-more/files/2370569)
@@ -29,10 +29,10 @@ iskall85 Presents
 
 ## ** NOTE **
 
-4. The Extra Utilities Mechanical Users have been disabled in this version. You have been warned.
-5. Make sure to BACKUP YOUR WORLD before updating to this version. This update contains numerous changes and not every possible problem during an update of an existing world could have been anticipated.
-6. Full changelog - Full Changelog
-7. Found the world corrupting bug and crushed it.
+1. The Extra Utilities Mechanical Users have been disabled in this version. You have been warned.
+2. Make sure to BACKUP YOUR WORLD before updating to this version. This update contains numerous changes and not every possible problem during an update of an existing world could have been anticipated.
+3. Full changelog - Full Changelog
+4. Found the world corrupting bug and crushed it.
 
 ## Core Mods Removed
 
