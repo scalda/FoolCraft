@@ -1,4 +1,27 @@
 iskall85 Presents
+
+# FoolCraft v1.3.3
+
+## Config File Changes
+
+ - Roguelike Dungeons
+     - Updated Configs to Fix Broken Loot Tables
+ - Chisel & Bits
+     ```
+     I:bagStackSize=2048
+     B:damageTools=false
+     ```
+ - AgriCraft
+     - Added JSON files for Mithril, Iridium, Tanzanite, Amber, Topaz, Malachite and Ender Amethyst
+ - Extra Utilities 2
+     ```
+     B:ItemBuildersWand=false
+     ```
+
+## MineTweaker Scripts Added/Changed/Removed
+
+ - Removed Extra Utilities 2 Builder’s Wand from Loot Tables
+
 # FoolCraft v1.3.2
 
 ## ** NOTE **
