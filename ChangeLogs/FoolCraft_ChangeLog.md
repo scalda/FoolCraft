@@ -7,16 +7,12 @@ iskall85 Presents
  - Roguelike Dungeons
      - Updated Configs to Fix Broken Loot Tables
  - Chisel & Bits
-     ```
-     I:bagStackSize=2048
-     B:damageTools=false
-     ```
+     - `I:bagStackSize=2048`
+     - `B:damageTools=false`
  - AgriCraft
      - Added JSON files for Mithril, Iridium, Tanzanite, Amber, Topaz, Malachite and Ender Amethyst
  - Extra Utilities 2
-     ```
-     B:ItemBuildersWand=false
-     ```
+     - `B:ItemBuildersWand=false`
 
 ## MineTweaker Scripts Added/Changed/Removed
 
@@ -34,10 +30,7 @@ iskall85 Presents
 ## Config File Changes
  - Block Armor
      - Reset Config to Defaults
-         ```
-         # Specifies how many armor pieces must be worn for a set's effect(s) to work.
-         I:"Armor pieces required for Set Effects"=2
-         ```
+         - `I:"Armor pieces required for Set Effects"=2`
 
 # FoolCraft v1.3.1
 
@@ -146,135 +139,85 @@ iskall85 Presents
 ## Config File Changes
 
  - AgriCraft
-     ```
-     B:"Enable JSON Writeback"=false
-     B:agricore_logging=false
-     B:agricraft-plugins_logging=false
-     B:agricraft_logging=false
-     S:"Crossover Chance"=0.65
-     S:"Growth rate multiplier"=0.5
-     S:"Mutation Chance"=0.5
-     Added Blizz, Blitz, Basalz and Manyullyn Crops to Resource Crops
-     Added Mutations for Brown Mushroom, Cactus, Red Mushroom and Sugarcane
-     ```
+     - `B:"Enable JSON Writeback"=false`
+     - `B:agricore_logging=false`
+     - `B:agricraft-plugins_logging=false`
+     - `B:agricraft_logging=false`
+     - `S:"Crossover Chance"=0.65`
+     - `S:"Growth rate multiplier"=0.5`
+     - `S:"Mutation Chance"=0.5`
+     - Added Blizz, Blitz, Basalz and Manyullyn Crops to Resource Crops
+     - Added Mutations for Brown Mushroom, Cactus, Red Mushroom and Sugarcane
  - Biomes ‘O Plenty
-     ```
-     B:"Default to BoP World Type"=true
-     ```
+     - `B:"Default to BoP World Type"=true`
  - Block Armor
-     ```
-     Too Numerous To List - Disabled Multiple Armor Sets with No Effects
-     ```
+     - Too Numerous To List - Disabled Multiple Armor Sets with No Effects
  - Colossal Chests
-     ```
-     B:general.analytics=false
-     B:general.versionChecker=false
-     ```
+     - `B:general.analytics=false`
+     - `B:general.versionChecker=false`
  - CodeChicken Core
-     ```
-     checkUpdates=false
-     ```
+     - `checkUpdates=false`
  - CoFH Core
-     ```
-     Granite "max-height": 20
-     ```
+     - `Granite "max-height": 20`
  - Cyclops Core
-     ```
-     B:general.analytics=false
-     B:general.versionChecker=false
-     ```
+     - `B:general.analytics=false`
+     - `B:general.versionChecker=false`
  - Extra Utilities 2
-     ```
-     B:User=false
-     ```
+     - `B:User=false`
  - FTB Utilities
-     ```
-     "chunk_loading": false,
-     ```
+     - `"chunk_loading": false,`
  - Inventory Pets
-     ```
-     B:"Disable All Pet Crafting"=true
-     I:"Illuminati Cooldown (0-5) minutes"=2
-     B:"Show Update Message"=false
-     ```
+     - `B:"Disable All Pet Crafting"=true`
+     - `I:"Illuminati Cooldown (0-5) minutes"=2`
+     - `B:"Show Update Message"=false`
  - Inventory Tweaks
-     ```
-     enableConfigLoadedMesssage=true
-     ```
+     - `enableConfigLoadedMesssage=true`
  - Just Enough Resources
-     ```
-     Created Ore Distribution Profile
-     ```
+     - `Created Ore Distribution Profile`
  - Pam’s HarvestCraft
-     ```
-     B:marketsellChicken=false
-     B:marketsellCow=false
-     B:marketsellHorse=false
-     B:marketsellPig=false
-     B:marketsellSheep=false
-     ```
+     - `B:marketsellChicken=false`
+     - `B:marketsellCow=false`
+     - `B:marketsellHorse=false`
+     - `B:marketsellPig=false`
+     - `B:marketsellSheep=false`
  - LootBags
-     ```
-     Remove thermalexpansion:augment:326
-     Correct Quantity of Villager Soul Vial
-     Fix Broken Texture Items
-     Other Additions and Removals
-     ```
+     - Remove thermalexpansion:augment:326
+     - Correct Quantity of Villager Soul Vial
+     - Fix Broken Texture Items
+     - Other Additions and Removals
  - Mob Dismemberment
-     ```
-     I:gibPushing=0
-     ```
+     - `I:gibPushing=0`
  - More Chickens
-     ```
-     draconiumawakenedchicken {
-     B:enabled=false
-     ```
+     - `draconiumawakenedchicken { B:enabled=false }`
  - Mystical Agriculture
-     ```
-     I:wither_supremium=0
-     ```
+     - `I:wither_supremium=0`
  - Not Enough Items
-     ```
-     checkUpdates=false
-     ```
+     - `checkUpdates=false`
  - Railcraft
-     ```
-     B:mineTin=false
-     B:mineSilver=false
-     B:mineLead=false
-     B:mineIron=false
-     B:mineGold=false
-     B:mineCopper=false
-     ```
+     - `B:mineTin=false`
+     - `B:mineSilver=false`
+     - `B:mineLead=false`
+     - `B:mineIron=false`
+     - `B:mineGold=false`
+     - `B:mineCopper=false`
  - Recurrent Complex
-     ```
-     S:baseSaplingSpawnWeight=1
-     S:saplingTriggerChance=0.2
-     ```
+     - `S:baseSaplingSpawnWeight=1`
+     - `S:saplingTriggerChance=0.2`
  - Tiny Progressions
-     ```
-     B:"Golden Apple Progression"=false
-     B:"Bone Tools & Weapons"=false
-     B:"Flint Tools & Weapons"=false
-     B:"Remove Wooden Tools & Weapons"=false
-     ```
+     - `B:"Golden Apple Progression"=false`
+     - `B:"Bone Tools & Weapons"=false`
+     - `B:"Flint Tools & Weapons"=false`
+     - `B:"Remove Wooden Tools & Weapons"=false`
  - Translocators 1.8+
-     ```
-     clientUpdateCheck=false
-     ```
+     - `clientUpdateCheck=false`
  - ViesCraft - Airships!
-     ```
-     I:"§fAirship Speed - Viesakron"=400
-     I:"§fAirship Speed - Viesdenburg"=400
-     I:"§fAirship Speed - Viesepelin"=400
-     I:"§fAirship Speed - Viesigible"=400
-     I:"§fViesoline Burn Time?"=500
-     ```
+     - `I:"§fAirship Speed - Viesakron"=400`
+     - `I:"§fAirship Speed - Viesdenburg"=400`
+     - `I:"§fAirship Speed - Viesepelin"=400`
+     - `I:"§fAirship Speed - Viesigible"=400`
+     - `I:"§fViesoline Burn Time?"=500`
  - Woot
-     ```
-     # config.Woot:globalAllowEnderDragon
-     B:globalAllowEnderDragon=false
-     ```
+     - `B:globalAllowEnderDragon=false`
 
 ## MineTweaker Scripts Added/Changed/Removed
  
