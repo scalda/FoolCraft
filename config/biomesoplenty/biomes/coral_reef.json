@@ -1,0 +1,26 @@
+{
+	"generators" :
+	{
+		"amber" :
+		{
+			"amountPerChunk" : 0
+		}
+	},
+
+	"weights": {
+		"ice_cap": 0,
+		"tundra": 0,
+		"boreal": 0,
+		"cold_swamp": 0,
+		"wet_temperate": 0,
+		"dry_temperate": 0,
+		"cool_temperate": 0,
+		"warm_temperate": 0,
+		"hot_swamp": 0,
+		"tropical": 5,
+		"mediteranean": 5,
+		"savanna": 0,
+		"hot_desert": 0,
+		"wasteland": 0
+	}
+}

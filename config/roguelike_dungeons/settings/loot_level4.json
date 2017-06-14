@@ -1,0 +1,182 @@
+{
+	"name" : "loot4",
+	"loot_rules" : [
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "blockarmor:obsidian_helmet"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:obsidian_chestplate"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:obsidian_leggings"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:obsidian_boots"}, "weight" : 3},
+
+				{"data" : {"name" : "blockarmor:firewood_0_helmet"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:firewood_0_chestplate"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:firewood_0_leggings"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:firewood_0_boots"}, "weight" : 3}
+
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 128}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 129}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 130}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 256}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 257}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 273}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 288}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 304}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 320}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 321}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 322}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 336}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 400}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 497}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 498}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 499}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 512}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 513}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 514}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 515}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 640}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 656}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 672}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 673}, "weight" : 2},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 0}, "weight" : 1},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 1}, "weight" : 1},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 2}, "weight" : 3},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 3}, "weight" : 3},
+				{"data" : {"name" : "extrautils2:bagofholding"}, "weight" : 3}
+
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 129, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 130, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 131, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 132, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 133, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 135, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 136, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 160, "min" : 1, "max" : 3}, "weight" : 4},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 161, "min" : 1, "max" : 3}, "weight" : 4},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 162, "min" : 1, "max" : 3}, "weight" : 4},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 163, "min" : 1, "max" : 3}, "weight" : 4},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 164, "min" : 1, "max" : 3}, "weight" : 4},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 134, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 165, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 166, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 167, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 2, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 5, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 6, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 7, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 2, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "iskalliumreactors:iskallium_essence", "min" : 0, "max" : 1}, "weight" : 1}
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 6
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 2, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 6, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 5, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 121}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 120}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 201}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 502}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 104}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 90}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 88}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 87}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 86}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 85}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 84}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 83}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 82}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 81}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 302}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 301}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 146}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 402}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 401}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 144}, "weight" : 1}
+
+			],
+			"level" : 4,
+			"each" : true,
+			"quantity" : 6
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "inventorypets:blaze_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:bed_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:chest_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:ghast_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:chicken_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:black_hole_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:cloud_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:enderman_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:wither_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:pufferfish_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:furnace_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:anvil_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:brewing_stand_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:ocelot_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:pingot_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:heart_pet"}, "weight" : 1},
+				{"data" : {"name" : "inventorypets:moon_pet"}, "weight" : 1}
+			],
+			"level" : 4,
+			"each" : false,
+			"quantity" : 2
+		}
+	]
+}

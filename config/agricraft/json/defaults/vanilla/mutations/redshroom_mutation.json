@@ -1,0 +1,8 @@
+{
+  "path": "vanilla/mutations/redshroom_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "redshroom_plant",
+  "parent1": "nether_wart_plant",
+  "parent2": "brownshroom_plant"
+}

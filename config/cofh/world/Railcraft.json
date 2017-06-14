@@ -1,0 +1,53 @@
+{
+  "populate": {
+    "sulfur": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "railcraft:ore",
+        "material": "lava",
+        "cluster-size": 6
+      },
+      "cluster-count": 12,
+      "min-height": 0,
+      "max-height": 14,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "saltpeter": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "railcraft:ore",
+        "metadata": 1,
+        "material": "sand",
+        "cluster-size": 3
+      },
+      "cluster-count": 3,
+      "min-height": 63,
+      "max-height": 128,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "name",
+            "entry": "DESERT"
+          }
+        ]
+      },
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

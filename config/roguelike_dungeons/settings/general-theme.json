@@ -1,0 +1,502 @@
+{
+	"name" : "general-theme",
+	"tower" : {
+		"type" : "ROGUE",
+		"theme" : {
+			"base" : "OAK",
+			"primary" : {
+				"walls" : {
+					"type" : "JUMBLE",
+					"data" : [
+						{
+							"name" : "botania:livingrock",
+							"meta" : 1
+						},
+						{
+							"name" : "botania:livingrock",
+							"meta" : 2
+						},
+						{
+							"name" : "botania:livingrock",
+							"meta" : 3
+						}
+					]
+				},
+				"pillar" : {
+					"type" : "JUMBLE",
+					"data" : [
+						{
+							"name" : "botania:livingrock",
+							"meta" : 1
+						},
+						{
+							"name" : "botania:livingrock",
+							"meta" : 2
+						},
+						{
+							"name" : "botania:livingrock",
+							"meta" : 3
+						}
+					]
+				},
+				"stair" : {
+					"name" : "botania:livingrock1Stairs"
+				}
+			},
+			"secondary" : {
+				"walls" : {
+					"name" : "botania:livingwood",
+					"meta" : 1
+				},
+				"pillar" : {
+					"type" : "WEIGHTED",
+					"data" : [
+						{
+							"name" : "botania:livingwood",
+							"weight" : 3
+						},
+						{
+							"name" : "botania:livingwood",
+							"meta" : 5,
+							"weight" : 1
+						}
+					]
+				
+				},
+				"stair" : {
+					"name" : "botania:livingwood0Stairs"
+				}
+			}
+		}
+	},
+	"levels" : {
+		"0" : {
+			"theme" : {
+				"base" : "OAK",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:livingrock",
+								"meta" : 1
+							},
+							{
+								"name" : "botania:livingrock",
+								"meta" : 2
+							},
+							{
+								"name" : "botania:livingrock",
+								"meta" : 3
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:livingrock",
+								"meta" : 1
+							},
+							{
+								"name" : "botania:livingrock",
+								"meta" : 2
+							},
+							{
+								"name" : "botania:livingrock",
+								"meta" : 3
+							}
+						]
+					},
+					"pillar" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:livingrock",
+								"meta" : 1
+							},
+							{
+								"name" : "botania:livingrock",
+								"meta" : 2
+							},
+							{
+								"name" : "botania:livingrock",
+								"meta" : 3
+							}
+						]
+					},
+					"stair" : {
+						"name" : "botania:livingrock1Stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"name" : "botania:livingwood",
+						"meta" : 1
+					},
+					"floor" : {
+						"name" : "botania:livingwood",
+						"meta" : 1
+					},
+					"pillar" : {
+						"type" : "WEIGHTED",
+						"data" : [
+							{
+								"name" : "botania:livingwood",
+								"weight" : 3
+							},
+							{
+								"name" : "botania:livingwood",
+								"meta" : 5,
+								"weight" : 1
+							}
+						]
+					
+					},
+					"stair" : {
+						"name" : "botania:livingwood0Stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				}
+			}
+		},
+		"1" : {
+			"theme" : {
+				"base" : "OAK",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:andesite",
+								"meta" : 9
+							},
+							{
+								"name" : "chisel:andesite",
+								"meta" : 12
+							},
+							{
+								"name" : "chisel:andesite",
+								"meta" : 13
+							},
+							{
+								"name" : "chisel:andesite",
+								"meta" : 14
+							}
+						]
+					},
+					"floor" : {
+						"name" : "chisel:andesite1",
+						"meta" : 4
+					},
+					"pillar" : {
+						"type" : "STRIPES",
+						"data" : [
+							{
+								"name" : "chisel:andesite1",
+								"meta" : 2
+							},
+							{
+								"name" : "chisel:andesite1",
+								"meta" : 14
+							}
+						]
+					},
+					"stair" : {
+						"name" : "minecraft:stone_brick_stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"name" : "biomesoplenty:planks_0",
+						"meta" : "14"
+					},
+					"floor" : {
+						"name" : "biomesoplenty:planks_0",
+						"meta" : "14"
+					},
+					"pillar" : {
+						"name" : "biomesoplenty:log_3",
+						"meta" : "6"
+					},
+					"stair" : {
+						"name" : "biomesoplenty:ebony_stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				}
+			}
+		},
+		"2" : {
+			"theme" : {
+				"base" : "OAK",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 1
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 3
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 4
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 1
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 3
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 4
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "tconstruct:seared",
+						"meta" : 2
+					},
+					"stair" : {
+						"name" : "tconstruct:seared_stairs_brick_cracked"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 1
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 3
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 4
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 1
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 3
+							},
+							{
+								"name" : "tconstruct:seared",
+								"meta" : 4
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "tconstruct:seared",
+						"meta" : 2
+					},
+					"stair" : {
+						"name" : "tconstruct:seared_stairs_brick_cracked"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				}
+			}
+		},
+		"3" : {
+			"theme" : {
+				"base" : "OAK",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 11
+							},
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 3
+							},
+							{
+								"name" : "botania:biomeStoneB",
+								"meta" : 3
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 11
+							},
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 3
+							},
+							{
+								"name" : "botania:biomeStoneB",
+								"meta" : 3
+							}
+						]
+					},
+					"pillar" : {
+								"name" : "botania:biomeStoneB",
+								"meta" : 11
+					},
+					"stair" : {
+						"name" : "botania:biomeStoneB3Stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					},
+					"liquid" : {
+						"name" : "tconstruct:purpleslime"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 12
+							},
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 4
+							},
+							{
+								"name" : "botania:biomeStoneB",
+								"meta" : 4
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 12
+							},
+							{
+								"name" : "botania:biomeStoneA",
+								"meta" : 4
+							},
+							{
+								"name" : "botania:biomeStoneB",
+								"meta" : 4
+							}
+						]
+					},
+					"pillar" : {
+								"name" : "botania:biomeStoneB",
+								"meta" : 12
+					},
+					"stair" : {
+						"name" : "botania:biomeStoneB4Stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				}
+			}
+		},
+		"4" : {
+			"theme" : {
+				"base" : "OAK",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 2
+							},
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 3
+							},
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 9
+							},
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 10
+							}
+						]
+					},
+					"floor" : {
+						"name" : "chisel:netherbrick",
+						"meta" : 15
+					},
+					"pillar" : {
+						"name" : "chisel:netherbrick",
+						"meta" : 13
+					},
+					"stair" : {
+						"name" : "nethercore:stairs_stone_cobble"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					},
+					"liquid" : {
+						"name" : "tconstruct:molten_obsidian"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"name" : "chisel:obsidian",
+						"meta" : 5
+					},
+					"floor" : {
+						"name" : "chisel:obsidian",
+						"meta" : 7
+					},
+					"pillar" : {
+						"name" : "chisel:obsidian",
+						"meta" : 1
+					},
+					"stair" : {
+						"name" : "botania:biomeStoneB3Stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				}
+			}
+		}
+	}
+}

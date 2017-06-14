@@ -1,0 +1,9 @@
+{
+  "costMultiplier": {
+  },
+  "blackList": [
+    "VillagerGolem",
+    "Villager",
+    "Chicken"
+  ]
+}

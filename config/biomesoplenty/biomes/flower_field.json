@@ -1,0 +1,26 @@
+{
+	"generators" :
+	{
+		"peridot" :
+		{
+			"amountPerChunk" : 0
+		}
+	},
+
+	"weights": {
+		"ice_cap": 0,
+		"tundra": 0,
+		"boreal": 1,
+		"cold_swamp": 0,
+		"wet_temperate": 1,
+		"dry_temperate": 1,
+		"cool_temperate": 1,
+		"warm_temperate": 1,
+		"hot_swamp": 0,
+		"tropical": 1,
+		"mediteranean": 1,
+		"savanna": 1,
+		"hot_desert": 0,
+		"wasteland": 0
+	}
+}

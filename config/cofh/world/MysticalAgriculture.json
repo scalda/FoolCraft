@@ -1,0 +1,84 @@
+{
+  "populate": {
+    "inferium_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "mysticalagriculture:inferium_ore",
+        "material": "stone",
+        "cluster-size": 6
+      },
+      "cluster-count": 6,
+      "min-height": 40,
+      "max-height": 75,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "nether_inferium_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "mysticalagriculture:nether_inferium_ore",
+        "material": "netherrack",
+        "cluster-size": 14
+      },
+      "cluster-count": 16,
+      "min-height": 10,
+      "max-height": 118,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          1,
+          0
+        ]
+      }
+    },
+    "prosperity_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "mysticalagriculture:prosperity_ore",
+        "material": "stone",
+        "cluster-size": 9
+      },
+      "cluster-count": 2,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "nether_prosperity_ore": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "mysticalagriculture:nether_prosperity_ore",
+        "material": "netherrack",
+        "cluster-size": 8
+      },
+      "cluster-count": 8,
+      "min-height": 40,
+      "max-height": 75,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          1,
+          0
+        ]
+      }
+    }
+  }
+}

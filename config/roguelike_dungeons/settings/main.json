@@ -1,0 +1,21 @@
+{
+	"exclusive" : true,
+	"name" : "main",
+	"inherit" : [
+		"builtin:base",
+		"loot",
+		"general-theme"
+	],
+	"criteria" : {
+	},
+	"overrides" : [
+	],
+	"levels" : {
+		"0" : {
+			"secrets" : [
+				{"type": "SMITH", "num" : 2},
+				{"type": "BEDROOM", "num" : 2}
+			]
+		}	
+	}
+}

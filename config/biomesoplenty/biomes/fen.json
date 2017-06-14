@@ -1,0 +1,26 @@
+{
+	"generators" :
+	{
+		"malachite" :
+		{
+			"amountPerChunk" : 0
+		}
+	},
+
+	"weights": {
+		"ice_cap": 0,
+		"tundra": 0,
+		"boreal": 0,
+		"cold_swamp": 0,
+		"wet_temperate": 0,
+		"dry_temperate": 3,
+		"cool_temperate": 0,
+		"warm_temperate": 3,
+		"hot_swamp": 0,
+		"tropical": 0,
+		"mediteranean": 3,
+		"savanna": 3,
+		"hot_desert": 3,
+		"wasteland": 0
+	}
+}

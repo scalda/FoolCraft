@@ -1,0 +1,8 @@
+{
+  "path": "mod_harvestcraft/mutations/lettuce_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "lettuce_crop",
+  "parent1": "soybean_crop",
+  "parent2": "celery_crop"
+}

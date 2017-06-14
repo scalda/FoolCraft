@@ -1,0 +1,228 @@
+{
+  "populate": {
+    "amethyst": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 0
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 1,
+      "numClusters": 1,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "SWAMP"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "ruby": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 1
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "SWAMP"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "peridot": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 2
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "FOREST, PLAINS"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "topaz": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 3
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "MESA, SANDY"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "tanzanite": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 4
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "temperature",
+            "entry": "COLD"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "malachite": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 5
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "FOREST, PLAINS"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "sapphire": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 6
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "OCEAN"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    },
+    "amber": {
+      "template": "uniform",
+      "block": {
+        "name": "biomesoplenty:gemore",
+        "metadata": 7
+      },
+      "material": "minecraft:stone",
+      "clusterSize": 0,
+      "numClusters": 0,
+      "minHeight": 20,
+      "maxHeight": 70,
+      "retrogen": false,
+      "biomeRestriction": "none",
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "dictionary",
+            "entry": "MOUNTAIN"
+          }
+        ]
+      },
+      "dimensionRestriction": "whitelist",
+      "dimensions": [
+        0,
+        6
+      ]
+    }
+  }
+}

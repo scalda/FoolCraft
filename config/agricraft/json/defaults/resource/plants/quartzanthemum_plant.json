@@ -1,0 +1,60 @@
+{
+  "path": "resource/plants/quartzanthemum_plant.json",
+  "enabled": true,
+  "id": "quartzanthemum_plant",
+  "plant_name": "Quartzanthemum",
+  "seed_name": "Crystalline Seeds",
+  "seed_items": [],
+  "description": {
+    "translations": {},
+    "default": "A suprisingly crystalline plant."
+  },
+  "growth_chance": 0.6,
+  "growth_bonus": 0.025,
+  "bonemeal": false,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 5,
+        "chance": 0.875,
+        "required": true,
+        "item": "minecraft:quartz",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "soul_sand_soil"
+    ],
+    "bases": [],
+    "nearby": {}
+  },
+  "texture": {
+    "render_type": "hash",
+    "seed_texture": "agricraft:items/seedQuartzanthemum",
+    "plant_textures": [
+      "agricraft:blocks/cropQuartzanthemum1",
+      "agricraft:blocks/cropQuartzanthemum1",
+      "agricraft:blocks/cropQuartzanthemum1",
+      "agricraft:blocks/cropQuartzanthemum2",
+      "agricraft:blocks/cropQuartzanthemum2",
+      "agricraft:blocks/cropQuartzanthemum3",
+      "agricraft:blocks/cropQuartzanthemum3",
+      "agricraft:blocks/cropQuartzanthemum4"
+    ]
+  }
+}

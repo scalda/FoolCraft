@@ -1,0 +1,26 @@
+{
+	"generators" :
+	{
+		"tanzanite" :
+		{
+			"amountPerChunk" : 0
+		}
+	},
+
+	"weights": {
+		"ice_cap": 0,
+		"tundra": 5,
+		"boreal": 0,
+		"cold_swamp": 2,
+		"wet_temperate": 0,
+		"dry_temperate": 0,
+		"cool_temperate": 5,
+		"warm_temperate": 0,
+		"hot_swamp": 0,
+		"tropical": 0,
+		"mediteranean": 0,
+		"savanna": 0,
+		"hot_desert": 0,
+		"wasteland": 0
+	}
+}

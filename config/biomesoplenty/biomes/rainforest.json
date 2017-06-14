@@ -1,0 +1,26 @@
+{
+	"generators" :
+	{
+		"topaz" :
+		{
+			"amountPerChunk" : 0
+		}
+	},
+
+	"weights": {
+		"ice_cap": 0,
+		"tundra": 0,
+		"boreal": 2,
+		"cold_swamp": 0,
+		"wet_temperate": 4,
+		"dry_temperate": 1,
+		"cool_temperate": 1,
+		"warm_temperate": 4,
+		"hot_swamp": 0,
+		"tropical": 4,
+		"mediteranean": 2,
+		"savanna": 0,
+		"hot_desert": 0,
+		"wasteland": 0
+	}
+}

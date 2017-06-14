@@ -1,0 +1,8 @@
+{
+  "mirror_ftb_commands": true,
+  "merge_offline_mode_players": "default",
+  "teams": {
+    "max_team_chat_history": 300,
+    "autocreate_on_login": true
+  }
+}

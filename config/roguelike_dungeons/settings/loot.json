@@ -1,0 +1,11 @@
+{
+	"name" : "loot",
+	"inherit" : [
+		"loot_all",
+		"loot0",
+		"loot1",
+		"loot2",
+		"loot3",
+		"loot4"
+	]
+}

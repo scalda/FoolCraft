@@ -1,0 +1,159 @@
+{
+	"name" : "loot3",
+	"loot_rules" : [
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "blockarmor:slime_grass_4_helmet"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:slime_grass_4_chestplate"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:slime_grass_4_leggings"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:slime_grass_4_boots"}, "weight" : 3},
+				
+				{"data" : {"name" : "blockarmor:slime_dirt_3_helmet"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:slime_dirt_3_chestplate"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:slime_dirt_3_leggings"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:slime_dirt_3_boots"}, "weight" : 3}
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 128}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 129}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 130}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 256}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 257}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 273}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 288}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 304}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 320}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 321}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 322}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 336}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 400}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 497}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 498}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 499}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 512}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 513}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 514}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 515}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 640}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 656}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 672}, "weight" : 2},
+				{"data" : {"name" : "thermalexpansion:augment", "meta" : 673}, "weight" : 2},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 1}, "weight" : 2},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 2}, "weight" : 3},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 3}, "weight" : 2},
+				{"data" : {"name" : "extrautils2:bagofholding"}, "weight" : 3}
+
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 1
+		},
+		{	
+			"type" : "FOOD", 
+			"loot" : [
+
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 129, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 130, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 131, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 132, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 133, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 135, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 136, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 160, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 161, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 162, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 163, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 164, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 134, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 165, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 166, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 167, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 2, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 6, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 5, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "minecraft:quartz"}, "weight" : 5}
+
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 6
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 129, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 130, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 131, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 132, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 133, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 135, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 136, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 160, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 161, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 162, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 163, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 164, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 0, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "enderio:itemAlloy", "meta" : 4, "min" : 1, "max" : 3}, "weight" : 3},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 1, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 3, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 5, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "iron_ingot", "min" : 1, "max" : 3}, "weight" : 1},
+				{"data" : {"name" : "gold_ingot", "min" : 1, "max" : 5}, "weight" : 4},
+				{"data" : {"name" : "botania:blackLotus", "meta" : 1}, "weight" : 10},
+				{"data" : {"name" : "chancecubes:chance_Cube"}, "weight" : 2},
+				{"data" : {"name" : "chancecubes:compact_Giant_Chance_Cube"}, "weight" : 1},
+				{"data" : {"name" : "chancecubes:chance_Icosahedron"}, "weight" : 1},
+				{"data" : {"name" : "lootbags:itemlootbag", "meta" : 2}, "weight" : 5},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 200}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 500}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 201}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 202}, "weight" : 1},
+				{"data" : {"name" : "chickens:spawn_egg", "meta" : 303}, "weight" : 1},
+				{"data" : {"name" : "nether_star"}, "weight" : 1}
+
+			],
+			"level" : 3,
+			"each" : true,
+			"quantity" : 6
+		}
+	]
+}

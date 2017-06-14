@@ -1,0 +1,288 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "mainmenu:title2.png",
+            "posX" : -215,
+            "posY" : 50,
+            "width" : 433,
+            "height" : 85,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+            "posX" : -100,
+            "posY" : -10,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+            "posX" : 2,
+            "posY" : -10,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        "mods":
+        {
+            "text" : "Mods",
+            "posX" : 2,
+            "posY" : 15,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+        "Iskall85":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : 15,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "center",
+			"tooltip": "Iskall85",
+			"texture" : "mainmenu:web.png",
+			"imageWidth": "40",
+			"imageHeight": "40",
+            "action" :
+            {
+                "type" : "openLink",
+				"link" : "http://www.iskall85.com"
+            }
+        },
+        "support":
+        {
+            "text" : "Support",
+            "posX" : -100,
+            "posY" : 65,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/scalda/FoolCraft/issues"
+            }
+        },
+        "changelog":
+        {
+            "text" : "Changelogs",
+            "posX" : 2,
+            "posY" : 40,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openLink",
+				"link" : "https://minecraft.curseforge.com/projects/foolcraft/files"
+            }
+        },
+		"Forums":
+        {
+            "text" : "Forums",
+            "posX" : -100,
+            "posY" : 40,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openLink",
+				"link" : "http://iskall85.com/"
+            }
+        },
+        "server downloads":
+        {
+            "text" : "Server Download",
+            "posX" : 2,
+            "posY" : 65,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openLink",
+				"link" : "https://minecraft.curseforge.com/projects/foolcraft/files"
+            }
+        },
+        "options":
+        {
+            "text" : "menu.options",
+            "posX" : -100,
+            "posY" : 15,
+            "width" : 98,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:shortbutton.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        "quit":
+        {
+            "text" : "menu.quit",
+            "posX" : -100,
+            "posY" : 90,
+            "width" : 200,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "mainmenu:longbutton.png",
+            "action" :
+            {
+                "type" : "quit"
+            }
+        },
+        "language":
+        {
+            "text" : "",
+            "posX" : 105,
+            "posY" : -10,
+            "width" : 20,
+            "height" : 20,
+			"tooltip": "Language",
+			"alignment" : "center",
+			"imageWidth": "40",
+			"imageHeight": "40",
+			"texture" : "mainmenu:lang.png",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+        "refresh":
+        {
+            "text" : "",
+            "posX" : 20,
+            "posY" : 0,
+            "width" : 20,
+            "height" : 20,
+			"alignment" : "top_right",
+            "texture" : "mainmenu:refresh.png",
+            "action" :
+            {
+                "type" : "refresh"
+            }
+        }
+    },
+	
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB",
+            "posX" : -65,
+            "posY" : -25,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+        },
+		"minecraft":{
+			"text" : "Minecraft 1.10.2",
+            "posX" : -50,
+            "posY" : -18,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_right"
+		},
+		"modsloaded":{
+			"text" : "#modsloaded# Mods Loaded",
+            "posX" : 3,
+            "posY" : -25,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"forge":{
+			"text" : "Forge #forgeversion#",
+            "posX" : 3,
+            "posY" : -18,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"modpack":{
+			"text" : "Pack Version 1.4",
+            "posX" : 3,
+            "posY" : -12,
+			"fontSize" : .6,
+            "color" : -1,
+			"hoverColor" : -1,
+            "alignment" : "bottom_left"
+		},
+		"newsLine1":{
+			"text" : "Hand Crafted for Your Enjoyment by: iskall85, scalda, CriticalMole, HazDS and Jo_Mamma75",
+            "posX" : -159,
+            "posY" : -10,
+			"fontSize" : .7,
+			"color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "bottom_center"
+		},
+		"newsLine2":{
+			"text" : "",
+            "posX" : 0,
+            "posY" : -10,
+			"fontSize" : .5,
+            "color" : 13048410,
+			"hoverColor" : 13048410,
+            "alignment" : "bottom_center"
+		},
+		"newsLine3":{
+			"text" : "",
+            "posX" : -140,
+            "posY" : 0,
+			"fontSize" : .8,
+            "color" : -1,
+			"hoverColor" : 13158400,
+            "alignment" : "bottom_right"
+		}
+    },
+    
+    "other":
+    {
+		"background":
+		{
+			"image" : "mainmenu:background.png",
+			"mode" : "fill"
+		}
+    }
+}

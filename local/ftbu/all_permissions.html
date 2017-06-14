@@ -1,0 +1,513 @@
+<html><head><title>Permissions</title><style>
+table{font-family:arial, sans-serif;border-collapse:collapse;}
+td,th{border:1px solid #666666;text-align:left;padding:8px;}
+td.all{background-color:#72FF85;}
+td.op{background-color:#42A3FF;}
+td.none{background-color:#FF4242;}
+</style></head><body><h1>Permissions</h1><table>
+<tr><th>Permission Node</th><th></th><th>Info</th></tr>
+<tr><td>command.*</td><td class='op'>OP</td><td>
+<p>Permission for commands, if FTBU command overriding is enabled. If not, this node will be inactive</p>
+</td></tr>
+<tr><td>enderio.attack.blockkillerjoe</td><td class='all'>ALL</td><td>
+<p>Permission for the block blockKillerJoe of Ender IO to attack entities. Note: The GameProfile will be for the block owner, the EntityPlayer in the context will be the fake player.</p>
+</td></tr>
+<tr><td>enderio.attract.blockattractor</td><td class='all'>ALL</td><td>
+<p>Permission for the block blockAttractor of Ender IO to attract entities. Note: The GameProfile will be for the block owner, the EntityPlayer in the context will be the fake player.</p>
+</td></tr>
+<tr><td>enderio.farm.blockfarmstation</td><td class='all'>ALL</td><td>
+<p>Permission for the block blockFarmStation of Ender IO to farm land. This includes tilling, planting, harvesting and fertilizing. Only the base block of a plant will be checked, not the dirt block below it or the additional plant blocks above it. Note: The GameProfile will be for the block owner, the EntityPlayer in the context will be the fake player.</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_alloy_smelter</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_ALLOY_SMELTER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_anvil</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_ANVIL GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_attractor</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_ATTRACTOR GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_buffer</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_BUFFER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_cap_bank</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_CAP_BANK GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_combustion_gen</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_COMBUSTION_GEN GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_crafter</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_CRAFTER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_crusher</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_CRUSHER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_enchanter</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_ENCHANTER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_external_connection</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_EXTERNAL_CONNECTION GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_farm_statation</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_FARM_STATATION GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_inhibitor</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_INHIBITOR GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_inventory_panel</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_INVENTORY_PANEL GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_inventory_panel_remote</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_INVENTORY_PANEL_REMOTE GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_inventory_panel_sensor</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_INVENTORY_PANEL_SENSOR GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_killer_joe</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_KILLER_JOE GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_painter</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_PAINTER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_power_monitor</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_POWER_MONITOR GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_power_monitor_advanced</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_POWER_MONITOR_ADVANCED GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_powered_spawner</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_POWERED_SPAWNER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_slice_n_splice</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_SLICE_N_SPLICE GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_soul_binder</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_SOUL_BINDER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_spawn_guard</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_SPAWN_GUARD GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_spawn_relocator</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_SPAWN_RELOCATOR GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_stirling_gen</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_STIRLING_GEN GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_tank</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TANK GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_telepad</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TELEPAD GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_telepad_dialing_device</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TELEPAD_DIALING_DEVICE GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_telepad_travel</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TELEPAD_TRAVEL GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_transceiver</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TRANSCEIVER GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_travel_accessable</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TRAVEL_ACCESSABLE GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_travel_auth</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_TRAVEL_AUTH GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_vacuum_chest</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_VACUUM_CHEST GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_vat</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_VAT GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_weather_obelisk</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_WEATHER_OBELISK GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_xp_obelisk</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_XP_OBELISK GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.gui.gui_id_zombie_gen</td><td class='all'>ALL</td><td>
+<p>Permission to open the GUI_ID_ZOMBIE_GEN GUI of Ender IO</p>
+</td></tr>
+<tr><td>enderio.soulvial.pickup</td><td class='all'>ALL</td><td>
+<p>Permission to pickup an entity with Ender IO's soul vessel</p>
+</td></tr>
+<tr><td>enderio.soulvial.pickup_owned</td><td class='op'>OP</td><td>
+<p>Permission to pickup an entity that is owned by another player with Ender IO's soul vessel</p>
+</td></tr>
+<tr><td>enderio.soulvial.place</td><td class='all'>ALL</td><td>
+<p>Permission to place down an entity with Ender IO's soul vessel</p>
+</td></tr>
+<tr><td>enderio.wrench.blockalloysmelter</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockAlloySmelter of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockattractor</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockAttractor of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockbuffer</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockBuffer of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockcapbank</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockCapBank of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockcombustiongenerator</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockCombustionGenerator of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockconduitbundle</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockConduitBundle of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockcrafter</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockCrafter of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockdialingdevice</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockDialingDevice of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockelectriclight</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockElectricLight of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockenchanter</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockEnchanter of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockendermanskull</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockEndermanSkull of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockexperienceobelisk</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockExperienceObelisk of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockfarmstation</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockFarmStation of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockfusedquartz</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockFusedQuartz of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockgauge</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockGauge of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockingotstorage</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockIngotStorage of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockinhibitorobelisk</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockInhibitorObelisk of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockinventorychest</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockInventoryChest of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockinventorypanel</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockInventoryPanel of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockinventorypanelsensor</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockInventoryPanelSensor of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockkillerjoe</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockKillerJoe of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocklightnode</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockLightNode of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockpaintedfusedquartz</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockPaintedFusedQuartz of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockpainter</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockPainter of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockpoweredspawner</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockPoweredSpawner of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockpowermonitor</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockPowerMonitor of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockpowermonitorv2</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockPowerMonitorv2 of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockreinforcedobsidian</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockReinforcedObsidian of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockreservoir</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockReservoir of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocksagmill</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockSagMill of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocksliceandsplice</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockSliceAndSplice of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocksolarpanel</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockSolarPanel of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocksoulbinder</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockSoulBinder of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockspawnguard</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockSpawnGuard of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockspawnrelocator</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockSpawnRelocator of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockstirlinggenerator</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockStirlingGenerator of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocktank</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockTank of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocktelepad</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockTelePad of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocktransceiver</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockTransceiver of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blocktravelanchor</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockTravelAnchor of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockvacuumchest</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockVacuumChest of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockvat</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockVat of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockweatherobelisk</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockWeatherObelisk of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockwirelesscharger</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockWirelessCharger of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockxpvacuum</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockXPVacuum of Ender IO</p>
+</td></tr>
+<tr><td>enderio.wrench.blockzombiegenerator</td><td class='all'>ALL</td><td>
+<p>Permission to wrench-break the block blockZombieGenerator of Ender IO</p>
+</td></tr>
+<tr><td>ftbl.op_buttons</td><td class='op'>OP</td><td>
+<p>Node for displaying OP-specific buttons in inventory</p>
+</td></tr>
+<tr><td>ftbu.back.infinite</td><td class='none'>NONE</td><td>
+<p>Allow to use 'back' command infinite times</p>
+</td></tr>
+<tr><td>ftbu.chunkloader.load_offline</td><td class='all'>ALL</td><td>
+<p>Keep loaded chunks working when player goes offline</p>
+</td></tr>
+<tr><td>ftbu.claims.block.cnb</td><td class='op'>OP</td><td>
+<p>Allow to edit C&B bits in claimed chunks</p>
+</td></tr>
+<tr><td>ftbu.claims.block.edit.*</td><td class='op'>OP</td><td>
+<p>Permission for blocks that players can break and place within claimed chunks</p>
+</td></tr>
+<tr><td>ftbu.claims.block.edit.gravestone.gravestone</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.*</td><td class='op'>OP</td><td>
+<p>Permission for blocks that players can right-click within claimed chunks</p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.cherry_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.ebony_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.ethereal_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.eucalyptus_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.fir_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.hellbark_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.jacaranda_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.magic_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.mahogany_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.mangrove_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.palm_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.pine_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.redwood_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.sacred_oak_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.umbran_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.biomesoplenty.willow_door_block</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.enderio.blockdarksteelanvil</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_black</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_blue</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_brown</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_cyan</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_gray</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_green</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_light_blue</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_lime</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_magenta</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_orange</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_pink</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_purple</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_red</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_silver</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_white</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.curtain_yellow</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.customdoor</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.factory_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.iron_sliding_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.jail_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.laboratory_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.saloon</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.shoji_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.verticalhatch</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.malisisdoors.wood_sliding_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.acacia_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.anvil</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.birch_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.crafting_table</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.dark_oak_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.iron_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.jungle_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.spruce_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.minecraft.wooden_door</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.nether_door_bloodwood</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.nether_door_ghostwood</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.overworld_door_eucalyptus</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.overworld_door_hopseed</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.overworld_door_redwood</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.overworld_door_redwood_bark</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.natura.overworld_door_sakura</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.block.interact.railcraft.anvil</td><td class='all'>ALL</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.item.*</td><td class='all'>ALL</td><td>
+<p>Permission for items that players can right-click in air within claimed chunks</p>
+</td></tr>
+<tr><td>ftbu.claims.item.forge.bucketfilled</td><td class='op'>OP</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.item.minecraft.bucket</td><td class='op'>OP</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.item.minecraft.end_crystal</td><td class='op'>OP</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.item.minecraft.lava_bucket</td><td class='op'>OP</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.item.minecraft.water_bucket</td><td class='op'>OP</td><td>
+<p></p>
+</td></tr>
+<tr><td>ftbu.claims.modify.others</td><td class='op'>OP</td><td>
+<p>Allow player to modify other player's chunks</p>
+</td></tr>
+<tr><td>ftbu.claims.modify.self</td><td class='all'>ALL</td><td>
+<p>Allow player to claim/unclaim his chunks</p>
+</td></tr>
+<tr><td>ftbu.claims.upgrade.*</td><td class='all'>ALL</td><td>
+<p>Permission for claimed chunk upgrades</p>
+</td></tr>
+<tr><td>ftbu.display.admin_info</td><td class='op'>OP</td><td>
+<p>Display 'Admin' in Server Info</p>
+</td></tr>
+<tr><td>ftbu.display.permissions</td><td class='op'>OP</td><td>
+<p>Display 'My Permissions' in Server Info</p>
+</td></tr>
+<tr><td>ftbu.homes.cross_dim</td><td class='all'>ALL</td><td>
+<p>Can use /home to teleport to/from another dimension</p>
+</td></tr>
+</table></body></html>

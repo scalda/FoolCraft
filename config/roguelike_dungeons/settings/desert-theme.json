@@ -1,0 +1,592 @@
+{
+	"name" : "desert-theme",
+	"tower" : {
+		"type" : "PYRAMID",
+		"theme" : {
+			"base" : "PYRAMID",
+			"primary" : {
+				"walls" : {
+					"type" : "JUMBLE",
+					"data" : [
+						{
+							"name" : "chisel:sandstoneyellow",
+							"meta" : 4
+						},
+						{
+							"name" : "chisel:sandstoneyellow",
+							"meta" : 13
+						},
+						{
+							"name" : "chisel:sandstoneyellow1",
+							"meta" : 3
+						},
+						{
+							"name" : "chisel:sandstoneyellow1"
+						}
+					]
+				}
+			}
+		}
+	},
+	"levels" : {
+		"0" : {
+			"theme" : {
+				"base" : "PYRAMID",
+				"primary" : {
+					"walls" : {
+						"type" : "LAYERS",
+						"data" : [
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 4
+									},
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 13
+									},
+									{
+										"name" : "chisel:sandstoneyellow1",
+										"meta" : 3
+									},
+									{
+										"name" : "chisel:sandstoneyellow1"
+									},
+									{ "name" : "chisel:sandstone-scribbles" },
+									{ "name" : "chisel:sandstone-scribbles", "meta": 1},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 2},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 3},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 4},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 5},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 6},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 7},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 8},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 9},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 10},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 11},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 12},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 13},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 14},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 15}
+								]
+							},
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 4
+									},
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 13
+									},
+									{
+										"name" : "chisel:sandstoneyellow1",
+										"meta" : 3
+									},
+									{
+										"name" : "chisel:sandstoneyellow1"
+									}
+								]
+							},
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 4
+									},
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 13
+									},
+									{
+										"name" : "chisel:sandstoneyellow1",
+										"meta" : 3
+									},
+									{
+										"name" : "chisel:sandstoneyellow1"
+									}
+								]
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "chisel:sandstoneyellow1",
+						"meta" : 6
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstoneyellow",
+								"meta" : 7
+							},
+							{
+								"name" : "chisel:sandstoneyellow1",
+								"meta" : 8
+							}
+						]
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"type" : "LAYERS",
+						"data" : [
+							{
+								"name" : "chisel:sandstoneyellow",
+								"meta" : 7
+							},
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{ "name" : "chisel:sandstone-scribbles" },
+									{ "name" : "chisel:sandstone-scribbles", "meta": 1},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 2},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 3},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 4},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 5},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 6},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 7},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 8},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 9},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 10},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 11},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 12},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 13},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 14},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 15}
+								]
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "chisel:sandstoneyellow",
+						"meta" : 11
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstoneyellow",
+								"meta" : 7
+							},
+							{
+								"name" : "chisel:sandstoneyellow1",
+								"meta" : 8
+							}
+						]
+					}
+				}
+			}
+		},
+		"1" : {
+			"theme" : {
+				"base" : "PYRAMID",
+				"primary" : {
+					"walls" : {
+						"type" : "LAYERS",
+						"data" : [
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 4
+									},
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 13
+									},
+									{
+										"name" : "chisel:sandstoneyellow1",
+										"meta" : 3
+									},
+									{
+										"name" : "chisel:sandstoneyellow1"
+									},
+									{ "name" : "chisel:sandstone-scribbles" },
+									{ "name" : "chisel:sandstone-scribbles", "meta": 1},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 2},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 3},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 4},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 5},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 6},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 7},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 8},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 9},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 10},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 11},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 12},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 13},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 14},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 15}
+								]
+							},
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 4
+									},
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 13
+									},
+									{
+										"name" : "chisel:sandstoneyellow1",
+										"meta" : 3
+									},
+									{
+										"name" : "chisel:sandstoneyellow1"
+									}
+								]
+							},
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 4
+									},
+									{
+										"name" : "chisel:sandstoneyellow",
+										"meta" : 13
+									},
+									{
+										"name" : "chisel:sandstoneyellow1",
+										"meta" : 3
+									},
+									{
+										"name" : "chisel:sandstoneyellow1"
+									}
+								]
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "chisel:sandstoneyellow1",
+						"meta" : 6
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstoneyellow",
+								"meta" : 7
+							},
+							{
+								"name" : "chisel:sandstoneyellow1",
+								"meta" : 8
+							}
+						]
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"type" : "LAYERS",
+						"data" : [
+							{
+								"name" : "chisel:sandstoneyellow",
+								"meta" : 7
+							},
+							{
+								"type" : "JUMBLE",
+								"data" : [
+									{ "name" : "chisel:sandstone-scribbles" },
+									{ "name" : "chisel:sandstone-scribbles", "meta": 1},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 2},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 3},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 4},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 5},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 6},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 7},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 8},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 9},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 10},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 11},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 12},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 13},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 14},
+									{ "name" : "chisel:sandstone-scribbles", "meta": 15}
+								]
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "chisel:sandstoneyellow",
+						"meta" : 11
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstoneyellow",
+								"meta" : 7
+							},
+							{
+								"name" : "chisel:sandstoneyellow1",
+								"meta" : 8
+							}
+						]
+					}
+				}
+			}
+		},
+		"2" : {
+			"theme" : {
+				"base" : "SANDSTONERED",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstonered1"
+							},
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 4
+							},
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 5
+							},
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 13
+							},
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 14
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "chisel:sandstonered",
+						"meta" : 11
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 7
+							},
+							{
+								"name" : "chisel:sandstonered1",
+								"meta" : 8
+							}
+						]
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstonered"
+							},
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 10
+							}
+						]
+					},
+					"pillar" : {
+						"name" : "chisel:sandstonered",
+						"meta" : 11
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:sandstonered",
+								"meta" : 7
+							},
+							{
+								"name" : "chisel:sandstonered1",
+								"meta" : 8
+							}
+						]
+					}
+				}
+			}
+		},
+		"3" : {
+			"theme" : {
+				"base" : "MOSSY",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 1
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 2
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 3
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 4
+							}
+						]
+					},
+					"pillar" : {
+						"type" : "LAYERS",
+						"data" : [
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 8
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 9
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:brownstone"
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 2
+							}
+						]
+					},
+					"stair" : {
+						"name" : "tconstruct:brownstone_stairs_brick_cracked"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 1
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 2
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 3
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 4
+							}
+						]
+					},
+					"pillar" : {
+						"type" : "LAYERS",
+						"data" : [
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 8
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 9
+							}
+						]
+					},
+					"floor" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "tconstruct:brownstone"
+							},
+							{
+								"name" : "tconstruct:brownstone",
+								"meta" : 2
+							}
+						]
+					},
+					"stair" : {
+						"name" : "tconstruct:brownstone_stairs_brick_cracked"
+					}
+				}
+			}
+		},
+		"4" : {
+			"theme" : {
+				"base" : "OAK",
+				"primary" : {
+					"walls" : {
+						"type" : "JUMBLE",
+						"data" : [
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 2
+							},
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 3
+							},
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 9
+							},
+							{
+								"name" : "chisel:netherbrick",
+								"meta" : 10
+							}
+						]
+					},
+					"floor" : {
+						"name" : "chisel:netherbrick",
+						"meta" : 15
+					},
+					"pillar" : {
+						"name" : "chisel:netherbrick",
+						"meta" : 13
+					},
+					"stair" : {
+						"name" : "nethercore:stairs_stone_cobble"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					},
+					"liquid" : {
+						"name" : "tconstruct:molten_obsidian"
+					}
+				},
+				"secondary" : {
+					"walls" : {
+						"name" : "chisel:obsidian",
+						"meta" : 5
+					},
+					"floor" : {
+						"name" : "chisel:obsidian",
+						"meta" : 7
+					},
+					"pillar" : {
+						"name" : "chisel:obsidian",
+						"meta" : 1
+					},
+					"stair" : {
+						"name" : "botania:biomeStoneB3Stairs"
+					},
+					"door" : {
+						"name" : "biomesoplenty:ebony_door_block"
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,87 @@
+{
+	"name" : "loot1",
+	"loot_rules" : [
+		{	
+			"type" : "ARMOUR", 
+			"loot" : [
+				{"data" : {"name" : "blockarmor:log_0_helmet"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:log_0_chestplate"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:log_0_leggings"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:log_0_boots"}, "weight" : 3},
+				
+				{"data" : {"name" : "blockarmor:log_1_helmet"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:log_1_chestplate"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:log_1_leggings"}, "weight" : 3},
+				{"data" : {"name" : "blockarmor:log_1_boots"}, "weight" : 3}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 3
+		},
+		{	
+			"type" : "WEAPONS", 
+			"loot" : [
+
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 2
+		},
+		{	
+			"type" : "TOOLS", 
+			"loot" : [
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 0}, "weight" : 2},
+				{"data" : {"name" : "weaponcaseloot:weaponcase", "meta" : 1}, "weight" : 2}
+
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 1
+		},
+		{
+			"type" : "FOOD", 
+			"loot" : [
+
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 5
+		},
+		{	
+			"type" : "ORE", 
+			"loot" : [
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 129, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 130, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 131, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 132, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "tconstruct:ingots", "meta" : 5, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "iron_ingot", "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "gold_ingot", "min" : 1, "max" : 3}, "weight" : 2}
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 6
+		},
+		{	
+			"loot" : [
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 129, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 130, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 131, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 132, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "thermalfoundation:material", "meta" : 128, "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "iron_ingot", "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "gold_ingot", "min" : 1, "max" : 3}, "weight" : 2},
+				{"data" : {"name" : "botania:blackLotus", "meta" : 1}, "weight" : 5},
+				{"data" : {"name" : "minecraft:obsidian"}, "min" : 1, "max" : 3, "weight" : 3},
+				{"data" : {"name" : "lootbags:itemlootbag", "meta" : 1}, "weight" : 2}
+
+			],
+			"level" : 1,
+			"each" : true,
+			"quantity" : 6
+		}
+	]
+}

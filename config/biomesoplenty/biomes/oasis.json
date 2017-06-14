@@ -1,0 +1,26 @@
+{
+	"generators" :
+	{
+		"ruby" :
+		{
+			"amountPerChunk" : 0
+		}
+	},
+
+	"weights": {
+		"ice_cap": 0,
+		"tundra": 0,
+		"boreal": 0,
+		"cold_swamp": 0,
+		"wet_temperate": 0,
+		"dry_temperate": 1,
+		"cool_temperate": 0,
+		"warm_temperate": 1,
+		"hot_swamp": 0,
+		"tropical": 5,
+		"mediteranean": 5,
+		"savanna": 1,
+		"hot_desert": 5,
+		"wasteland": 0
+	}
+}

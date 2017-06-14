@@ -1,0 +1,8 @@
+{
+  "path": "mod_harvestcraft/mutations/curryleaf_mutation.json",
+  "enabled": true,
+  "chance": 0.5,
+  "child": "curryleaf_crop",
+  "parent1": "spiceleaf_crop",
+  "parent2": "mustard_crop"
+}

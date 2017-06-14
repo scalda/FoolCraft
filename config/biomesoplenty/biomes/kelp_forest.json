@@ -1,0 +1,9 @@
+{
+	"generators" :
+	{
+		"amber" :
+		{
+			"amountPerChunk" : 0
+		}
+	}
+}

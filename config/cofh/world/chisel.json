@@ -1,0 +1,66 @@
+{
+  "populate": {
+    "marble": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "chisel:marbleextra",
+          "metadata": 7
+        },
+        "material": "stone",
+        "cluster-size": 8
+      },
+      "cluster-count": 1,
+      "min-height": 20,
+      "max-height": 55,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "temperature",
+            "entry": "COLD"
+          }
+        ]
+      },
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "limestone": {
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "chisel:limestoneextra",
+          "metadata": 7
+        },
+        "material": "stone",
+        "cluster-size": 8
+      },
+      "cluster-count": 1,
+      "min-height": 20,
+      "max-height": 55,
+      "retrogen": true,
+      "biome": {
+        "restriction": "whitelist",
+        "value": [
+          {
+            "type": "temperature",
+            "entry": "COLD"
+          }
+        ]
+      },
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

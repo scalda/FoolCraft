@@ -1,0 +1,15 @@
+{
+	"exclusive" : true,
+	"name" : "desert",
+	"inherit" : [
+		"builtin:desert",
+		"loot",
+		"desert-theme"
+	],
+	"criteria" : {
+		"biomeTypes" : [
+			"SANDY"
+		],
+		"weight" : 1000
+	}
+}
