@@ -1967,13 +1967,13 @@
       "addonID": 242001,
       "gameInstanceID": "ad72c9cc-6f46-45d2-bccf-a9c8872798e9",
       "installedFile": {
-        "Id": 2349268,
-        "FileName": "ArchitectureCraft-1.7.1-mc1.10.2.jar",
-        "FileNameOnDisk": "ArchitectureCraft-1.7.1-mc1.10.2.jar",
-        "FileDate": "2016-11-26T08:51:23",
+        "Id": 2435970,
+        "FileName": "ArchitectureCraft-1.7.3-mc1.10.2.jar",
+        "FileNameOnDisk": "ArchitectureCraft-1.7.3-mc1.10.2.jar",
+        "FileDate": "2017-06-18T01:19:27",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2349/268/ArchitectureCraft-1.7.1-mc1.10.2.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2435/970/ArchitectureCraft-1.7.3-mc1.10.2.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [],
@@ -1981,34 +1981,34 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 768018130
+            "Fingerprint": 1592976544
           },
           {
             "Foldername": "gcewing",
-            "Fingerprint": 2160130945
+            "Fingerprint": 1557683632
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 682236414
+            "Fingerprint": 3836604492
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2464251221
           }
         ],
-        "PackageFingerprint": 3082159075,
+        "PackageFingerprint": 4035214450,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-04-18T23:05:27.4561872Z",
-      "dateUpdated": "2016-04-18T23:05:27.4561872Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-06-19T14:22:33.5234249Z",
+      "dateLastUpdateAttempted": "2017-06-19T14:22:33.5234249Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
-      "isModified": true,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
