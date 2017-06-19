@@ -1940,7 +1940,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2017-06-19T08:17:13.2561433Z",
+  "lastPreviousMatchUpdate": "2017-06-19T14:19:41.898153Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.10.2",
@@ -2129,44 +2129,53 @@
       "addonID": 261348,
       "gameInstanceID": "84eabed4-7d9c-4fe7-a9e2-42ddef58971a",
       "installedFile": {
-        "Id": 2396637,
-        "FileName": "Avaritia-1.10.2-2.0.7.jar",
-        "FileNameOnDisk": "Avaritia-1.10.2-2.0.7.jar",
-        "FileDate": "2017-03-24T01:54:24",
+        "Id": 2432854,
+        "FileName": "Avaritia-1.10.2-2.2.4.jar",
+        "FileNameOnDisk": "Avaritia-1.10.2-2.2.4.-universal.jar",
+        "FileDate": "2017-06-12T08:50:56",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2396/637/Avaritia-1.10.2-2.0.7.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2432/854/Avaritia-1.10.2-2.2.4.-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "AddOnId": 242818,
+            "Type": 1
+          }
+        ],
         "IsAvailable": true,
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1830058399
-          },
-          {
-            "Foldername": "fox",
-            "Fingerprint": 1035577045
+            "Fingerprint": 4005971981
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 1958193297
+            "Fingerprint": 719198720
           },
           {
             "Foldername": "META-INF",
-            "Fingerprint": 2464251221
+            "Fingerprint": 3663872080
+          },
+          {
+            "Foldername": "morph",
+            "Fingerprint": 2678703028
+          },
+          {
+            "Foldername": "net",
+            "Fingerprint": 1204533735
           }
         ],
-        "PackageFingerprint": 2687331104,
+        "PackageFingerprint": 3403772537,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-05-13T06:19:22.3202331Z",
-      "dateUpdated": "2016-05-13T06:19:22.3202331Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-06-19T14:19:46.3729106Z",
+      "dateLastUpdateAttempted": "2017-06-19T14:19:46.3729106Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
