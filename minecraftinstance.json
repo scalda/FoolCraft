@@ -3052,13 +3052,13 @@
       "addonID": 231095,
       "gameInstanceID": "ad72c9cc-6f46-45d2-bccf-a9c8872798e9",
       "installedFile": {
-        "Id": 2380915,
-        "FileName": "chiselsandbits-12.12.jar",
-        "FileNameOnDisk": "chiselsandbits-12.12.jar",
-        "FileDate": "2017-02-12T20:05:16",
-        "ReleaseType": 1,
+        "Id": 2433811,
+        "FileName": "chiselsandbits-12.14.jar",
+        "FileNameOnDisk": "chiselsandbits-12.14.jar",
+        "FileDate": "2017-06-14T06:05:19",
+        "ReleaseType": 2,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2380/915/chiselsandbits-12.12.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2433/811/chiselsandbits-12.14.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -3075,11 +3075,11 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 1580041102
+            "Fingerprint": 4053118323
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 886853426
+            "Fingerprint": 1968247527
           },
           {
             "Foldername": "META-INF",
@@ -3087,22 +3087,22 @@
           },
           {
             "Foldername": "mod",
-            "Fingerprint": 108488082
+            "Fingerprint": 80509051
           },
           {
             "Foldername": "pack.mcmeta",
             "Fingerprint": 2325622583
           }
         ],
-        "PackageFingerprint": 3051540675,
+        "PackageFingerprint": 2492741227,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-04-19T15:07:27.2153496Z",
-      "dateUpdated": "2016-04-19T15:07:27.2153496Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
+      "dateUpdated": "2017-06-19T14:24:07.4036853Z",
+      "dateLastUpdateAttempted": "2017-06-19T14:24:07.4036853Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
