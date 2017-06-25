@@ -2346,13 +2346,13 @@
       "addonID": 69162,
       "gameInstanceID": "ad72c9cc-6f46-45d2-bccf-a9c8872798e9",
       "installedFile": {
-        "Id": 2435871,
-        "FileName": "CoFHCore-1.10.2-4.1.5.8-universal.jar",
-        "FileNameOnDisk": "CoFHCore-1.10.2-4.1.5.8-universal.jar",
-        "FileDate": "2017-06-17T21:45:29",
+        "Id": 2440018,
+        "FileName": "CoFHCore-1.10.2-4.1.7.11-universal.jar",
+        "FileNameOnDisk": "CoFHCore-1.10.2-4.1.7.11-universal.jar",
+        "FileDate": "2017-06-23T03:58:22",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2435/871/CoFHCore-1.10.2-4.1.5.8-universal.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2440/18/CoFHCore-1.10.2-4.1.7.11-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -2369,26 +2369,26 @@
           },
           {
             "Foldername": "cofh",
-            "Fingerprint": 1303094191
+            "Fingerprint": 1369927078
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 2504980425
+            "Fingerprint": 183573676
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 1124856195
           }
         ],
-        "PackageFingerprint": 410629594,
+        "PackageFingerprint": 2727825492,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-04-19T15:07:27.2068447Z",
-      "dateUpdated": "2017-06-19T08:19:15.9117418Z",
-      "dateLastUpdateAttempted": "2017-06-19T08:19:15.9117418Z",
-      "status": 3,
+      "dateUpdated": "2017-06-25T14:10:42.3107705Z",
+      "dateLastUpdateAttempted": "2017-06-25T14:10:42.3107705Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -3435,13 +3435,13 @@
       "addonID": 222880,
       "gameInstanceID": "ad72c9cc-6f46-45d2-bccf-a9c8872798e9",
       "installedFile": {
-        "Id": 2435872,
-        "FileName": "ThermalFoundation-1.10.2-2.1.2.4-universal.jar",
-        "FileNameOnDisk": "ThermalFoundation-1.10.2-2.1.2.4-universal.jar",
-        "FileDate": "2017-06-17T21:45:53",
+        "Id": 2440020,
+        "FileName": "ThermalFoundation-1.10.2-2.1.3.5-universal.jar",
+        "FileNameOnDisk": "ThermalFoundation-1.10.2-2.1.3.5-universal.jar",
+        "FileDate": "2017-06-23T03:59:00",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2435/872/ThermalFoundation-1.10.2-2.1.2.4-universal.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2440/20/ThermalFoundation-1.10.2-2.1.3.5-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -3454,30 +3454,30 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 3036965298
+            "Fingerprint": 788579011
           },
           {
             "Foldername": "cofh",
-            "Fingerprint": 3805592181
+            "Fingerprint": 3263627842
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3006735729
+            "Fingerprint": 3509085058
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2989604210
           }
         ],
-        "PackageFingerprint": 3448172598,
+        "PackageFingerprint": 4226107404,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-04-19T15:07:27.2198624Z",
-      "dateUpdated": "2017-06-19T08:20:27.5327612Z",
-      "dateLastUpdateAttempted": "2017-06-19T08:20:27.5327612Z",
-      "status": 3,
+      "dateUpdated": "2017-06-25T14:10:54.4271149Z",
+      "dateLastUpdateAttempted": "2017-06-25T14:10:54.4271149Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8727,13 +8727,13 @@
       "addonID": 227443,
       "gameInstanceID": "ad72c9cc-6f46-45d2-bccf-a9c8872798e9",
       "installedFile": {
-        "Id": 2436209,
-        "FileName": "ThermalDynamics-1.10.2-2.0.6.8-universal.jar",
-        "FileNameOnDisk": "ThermalDynamics-1.10.2-2.0.6.8-universal.jar",
-        "FileDate": "2017-06-18T12:54:25",
+        "Id": 2440022,
+        "FileName": "ThermalDynamics-1.10.2-2.0.8.11-universal.jar",
+        "FileNameOnDisk": "ThermalDynamics-1.10.2-2.0.8.11-universal.jar",
+        "FileDate": "2017-06-23T03:59:41",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2436/209/ThermalDynamics-1.10.2-2.0.6.8-universal.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2440/22/ThermalDynamics-1.10.2-2.0.8.11-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -8754,15 +8754,15 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2059175365
+            "Fingerprint": 73386656
           },
           {
             "Foldername": "cofh",
-            "Fingerprint": 3044849052
+            "Fingerprint": 2969225115
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 3237206708
+            "Fingerprint": 2547835852
           },
           {
             "Foldername": "META-INF",
@@ -8773,15 +8773,15 @@
             "Fingerprint": 2030593330
           }
         ],
-        "PackageFingerprint": 3520698582,
+        "PackageFingerprint": 1036997392,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-06-14T14:23:34.2811226Z",
-      "dateUpdated": "2017-06-19T08:20:25.257073Z",
-      "dateLastUpdateAttempted": "2017-06-19T08:20:25.257073Z",
-      "status": 3,
+      "dateUpdated": "2017-06-25T14:10:52.0112026Z",
+      "dateLastUpdateAttempted": "2017-06-25T14:10:52.0112026Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -8921,13 +8921,13 @@
       "addonID": 69163,
       "gameInstanceID": "ad72c9cc-6f46-45d2-bccf-a9c8872798e9",
       "installedFile": {
-        "Id": 2436207,
-        "FileName": "ThermalExpansion-1.10.2-5.1.5.6-universal.jar",
-        "FileNameOnDisk": "ThermalExpansion-1.10.2-5.1.5.6-universal.jar",
-        "FileDate": "2017-06-18T12:53:36",
+        "Id": 2437514,
+        "FileName": "ThermalExpansion-1.10.2-5.1.6.8-universal.jar",
+        "FileNameOnDisk": "ThermalExpansion-1.10.2-5.1.6.8-universal.jar",
+        "FileDate": "2017-06-20T14:11:52",
         "ReleaseType": 1,
         "FileStatus": 2,
-        "DownloadURL": "https://addons.cursecdn.com/files/2436/207/ThermalExpansion-1.10.2-5.1.5.6-universal.jar",
+        "DownloadURL": "https://addons.cursecdn.com/files/2437/514/ThermalExpansion-1.10.2-5.1.6.8-universal.jar",
         "IsAlternate": false,
         "AlternateFileId": 0,
         "Dependencies": [
@@ -8948,30 +8948,30 @@
         "Modules": [
           {
             "Foldername": "assets",
-            "Fingerprint": 2450720791
+            "Fingerprint": 1157682520
           },
           {
             "Foldername": "cofh",
-            "Fingerprint": 3664386348
+            "Fingerprint": 3721532410
           },
           {
             "Foldername": "mcmod.info",
-            "Fingerprint": 450625199
+            "Fingerprint": 3649483642
           },
           {
             "Foldername": "META-INF",
             "Fingerprint": 2989604210
           }
         ],
-        "PackageFingerprint": 1636372138,
+        "PackageFingerprint": 3179069165,
         "GameVersion": [
           "1.10.2"
         ]
       },
       "dateInstalled": "2017-06-14T14:23:34.2866111Z",
-      "dateUpdated": "2017-06-19T08:20:26.4080042Z",
-      "dateLastUpdateAttempted": "2017-06-19T08:20:26.4080042Z",
-      "status": 3,
+      "dateUpdated": "2017-06-25T14:10:53.2159862Z",
+      "dateLastUpdateAttempted": "2017-06-25T14:10:53.2159862Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
