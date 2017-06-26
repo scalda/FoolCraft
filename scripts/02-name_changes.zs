@@ -27,4 +27,3 @@ print("Initializing 'namechanges'...");
 <progressiveautomation:CreativeRFEngine>.displayName = "Fool's RF Engine";
 <botania:pool:1>.displayName = "Fool's Everlasting Guilty Pool";
 <tconstruct:materials:50>.displayName = "Fool's Modifier";
-<extrautils2:drum:4>.displayName = "Fool's Drum";
