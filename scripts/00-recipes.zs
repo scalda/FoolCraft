@@ -53,9 +53,9 @@ furnace.remove(<mw:leadingot>);
 ## ADDED
 
 //Agricraft
-recipes.addShapeless(<agricraft:agri_seed>.withTag({agri_analyzed: 0, agri_strength: 1, agri_gain: 1, agri_seed: "carrot_plant", agri_growth: 1}), [<ore:cropCarrot>]);
-recipes.addShaped(<agricraft:water_tank>.withTag({agri_material_meta: 0, agri_material: "minecraft:planks"}), [[<minecraft:planks>, null, <minecraft:planks>], [<minecraft:planks>, null, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>]]);
-recipes.addShaped(<agricraft:water_channel_normal>, [[<ore:plankWood>, null, <ore:plankWood>], [null, <ore:plankWood>, null]]);
+//recipes.addShapeless(<agricraft:agri_seed>.withTag({agri_analyzed: 0, agri_strength: 1, agri_gain: 1, agri_seed: "carrot_plant", agri_growth: 1}), [<ore:cropCarrot>]);
+//recipes.addShaped(<agricraft:water_tank>.withTag({agri_material_meta: 0, agri_material: "minecraft:planks"}), [[<minecraft:planks>, null, <minecraft:planks>], [<minecraft:planks>, null, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>]]);
+//recipes.addShaped(<agricraft:water_channel_normal>, [[<ore:plankWood>, null, <ore:plankWood>], [null, <ore:plankWood>, null]]);
 
 //Steel Recipe
 recipes.remove(<railcraft:generic:3>);
