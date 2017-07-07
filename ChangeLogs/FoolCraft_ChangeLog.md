@@ -1,4 +1,64 @@
-iskall85 Presents
+# FoolCraft, Version 1.4.8 by Iskall85_Dev
+
+## Mod(s) updated
+
+Concrete Mod by Dbrown55 (April Fools Update - 1.10.2 > 1.2)
+
+# FoolCraft, Version 1.4.7 by Iskall85_Dev
+
+## Mod(s) updated
+
+Avaritia 1.1x by brandon3055 (2.2.6 > 2.2.7)
+Concrete Mod by Dbrown55 (April Fools Update - 1.10.2 > 1.2)
+Recurrent Complex by Ivorforce (1.4.1 > 1.4.3.1)
+
+## Mod(s) added
+
+DbrownUtil by Dbrown55
+
+## Config Changes
+
+"Fool's Drum" was removed
+Ender Dragon disabled in Woot
+
+# FoolCraft, Version 1.4.6 by Iskall85_Dev
+
+## Mod(s) Updated
+
+Avaritia 1.1x by brandon3055 (2.2.4 > 2.2.6)
+CoFH Core by TeamCoFH (4.1.5.8 > 4.1.7.11)
+Hermitron by Winter_Grave (0.2.14 > 0.2.16)
+Recurrent Complex by Ivorforce (1.4 > 1.4.1)
+Thermal Dynamics by TeamCoFH (2.0.6.8 > 2.0.8.11)
+Thermal Expansion by TeamCoFH (5.1.5.6 > 5.1.6.8)
+Thermal Foundation by TeamCoFH (2.1.2.4 > 2.1.3.5)
+
+# FoolCraft, Version 1.4.5 by Iskall85_Dev
+
+## Mod(s) Removed
+
+Avaritia Additions by abused_master
+
+## Mod(s) Updated
+
+ArchitectureCraft by gcewing (1.7.1 > 1.7.3)
+Avaritia 1.1x by brandon3055 (2.0.7 > 2.2.4)
+CoFH Core by TeamCoFH (4.1.2.157 > 4.1.5.8)
+Ender IO by CrazyPants_MC (3.1.192 > 3.1.193)
+Chisels & Bits by AlgorithmX2 (12.12 > 12.14)
+Thermal Foundation by TeamCoFH (2.1.0.82 > 2.1.2.4)
+Recurrent Complex by Ivorforce (1.3.2 > 1.4)
+Thermal Dynamics by TeamCoFH (2.0.2.4 > 2.0.6.8)
+Thermal Expansion by TeamCoFH (5.1.1.93 > 5.1.5.6)
+
+## Config Changes
+
+Good Ol'Currency is now using Foolcraft Textures
+Some of the Avaritia-recipes for the Fool's items were changed
+BlockArmor-items were blacklisted as rewards from the Illuminati-Pet
+
+
+# iskall85 Presents
 
 # FoolCraft v1.3.3
 
