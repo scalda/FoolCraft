@@ -1,0 +1,72 @@
+{
+  "path": "mod_actuallyadditions/coffee_plant.json",
+  "enabled": true,
+  "id": "coffee_plant",
+  "plant_name": "Coffee",
+  "seed_name": "Coffee Seeds",
+  "seed_items": [
+    {
+      "item": "actuallyadditions:itemCoffeeSeed",
+      "meta": 0,
+      "tags": "",
+      "ignoreMeta": false,
+      "ignoreTags": [
+        "*"
+      ],
+      "useOreDict": false
+    }
+  ],
+  "description": {
+    "translations": {},
+    "default": "Testing 1, 2, 3."
+  },
+  "growth_chance": 1.0,
+  "growth_bonus": 0.025,
+  "bonemeal": true,
+  "tier": 1,
+  "weedable": false,
+  "aggressive": false,
+  "spread_chance": 0.1,
+  "spawn_chance": 0.0,
+  "grass_drop_chance": 0.0,
+  "seed_drop_chance": 1.0,
+  "seed_drop_bonus": 0.0,
+  "products": {
+    "products": [
+      {
+        "min": 1,
+        "max": 3,
+        "chance": 0.95,
+        "required": true,
+        "item": "actuallyadditions:itemCoffeeBeans",
+        "meta": 0,
+        "tags": "",
+        "ignoreMeta": false,
+        "ignoreTags": [],
+        "useOreDict": false
+      }
+    ]
+  },
+  "requirement": {
+    "min_light": 10,
+    "max_light": 16,
+    "soils": [
+      "farmland_soil"
+    ],
+    "conditions": []
+  },
+  "texture": {
+    "render_type": "cross",
+    "seed_texture": "actuallyadditions:items/itemCoffeeSeed",
+    "plant_textures": [
+      "actuallyadditions:blocks/blockCoffeeStage1",
+      "actuallyadditions:blocks/blockCoffeeStage2",
+      "actuallyadditions:blocks/blockCoffeeStage2",
+      "actuallyadditions:blocks/blockCoffeeStage3",
+      "actuallyadditions:blocks/blockCoffeeStage4",
+      "actuallyadditions:blocks/blockCoffeeStage4",
+      "actuallyadditions:blocks/blockCoffeeStage5",
+      "actuallyadditions:blocks/blockCoffeeStage6"
+    ]
+  }
+}

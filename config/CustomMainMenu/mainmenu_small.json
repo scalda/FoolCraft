@@ -200,7 +200,7 @@
         }
     },
 	
-    "texts":
+    "labels":
     {
         "mojang":
         {
@@ -240,7 +240,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Pack Version 1.4",
+			"text" : "Pack Version 1.5",
             "posX" : 3,
             "posY" : -60,
 			"fontSize" : 2,

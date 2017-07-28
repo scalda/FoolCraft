@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<mod docRevision="9" lang="en_US" modName="Draconic Evolution" modid="draconicevolution">
+<mod docRevision="11" lang="en_US" modName="Draconic Evolution" modid="draconicevolution">
     <content index="30" type="textArea">§6Robert W
 §r(Since 08/06/2015)§r
 
@@ -18,6 +18,9 @@
 §6Drekryan
 §r(Since 24/06/2016)§r
 
+§6Der DracheTV
+§r(Since 26/06/2016)§r
+
 §6Jordan
 §r(Since 20/07/2016)§r
 
@@ -28,7 +31,34 @@
 §r(Since 09/12/2016)§r
 
 §6Nick_J_M
-§r(Since 19/01/2017)§r</content>
+§r(Since 19/01/2017)§r
+
+§6Halacon
+§r(Since 23/01/2017)§r
+
+§6Edward
+§r(Since 27/01/2017)§r
+
+§6WolufHD
+§r(Since 29/03/2017)§r
+
+§6Morpheus1101
+§r(Since 15/04/2017)§r
+
+§6exus_Chris
+§r(Since 18/04/2017)§r
+
+§6Zudakai
+§r(Since 21/04/2017)§r
+
+§6duomaz
+§r(Since 15/04/2017)§r
+
+§6Snakemgr12
+§r(Since 12/05/2017)§r
+
+§6Mhoku_
+§r(Since 08/06/2017)§r</content>
     <content alignment="CENTER" colour="ff00" hoverColour="0000FF" index="33" link="https://www.patreon.com/brandon3055" shadow="true" size="0" targetLocation="web" type="link">https://www.patreon.com/brandon3055</content>
     <content index="32" type="textArea">If you would like to become a patreon you can do so by following the link bellow.</content>
     <content index="31" size="8" type="vSpacer"/>
@@ -1150,7 +1180,7 @@ If you hold shift all names will be hidden except the one you are looking at. (S
             <content index="1" size="8" type="vSpacer"/>
             <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nDislocator Pedestal</content>
         </entry>
-    <entry branchId="draconicevolution:dislocation/receptacle" category="wiki.cat.block" icon="draconicevolution:dislocator_receptacle" iconType="stack" name="Dislocaror Receptacle (Portal)">
+    <entry branchId="draconicevolution:dislocation/receptacle" category="wiki.cat.block" icon="draconicevolution:dislocator_receptacle" iconType="stack" name="Dislocator Receptacle (Portal)">
             <content index="5" size="8" type="vSpacer"/>
             <content imgURL="https://raw.githubusercontent.com/brandon3055/Project-Intelligence-Docs/master/Assets/Draconic%20Evolution/portal.jpg" index="6" scale="100" type="image"/>
             <content index="4" type="recipe">draconicevolution:dislocator_receptacle</content>
@@ -1455,5 +1485,189 @@ The process will begin immediately.
 Note this may anger the enderman just a little but they will get over it. Its not like your killing the dragon after all. </content>
         <content index="1" size="8" type="vSpacer"/>
         <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nEnder Energy Manipulator</content>
+    </entry>
+<entry branchId="draconicevolution:stabilizedSpawner" category="wiki.cat.block" icon="draconicevolution:draconic_spawner,1,0,{DETileData:{SyncableEnum0:2b,SyncableStack1:{id:&quot;draconicevolution:mob_soul&quot;,Count:1b,tag:{EntityName:&quot;Pig&quot;},Damage:0s}}}" iconType="stack" name="Stabilized Spawner" sortingWeight="211">
+        <content index="13" size="8" type="vSpacer"/>
+        <content index="11" size="8" type="vSpacer"/>
+        <content index="12" type="textArea">As mentioned when you create a spawner it will be the same tier as the core you used to create it.
+If you wish to upgrade (or downgrade) a spawner you can simply right click the spawner with a different type of core.
+The new core will be applied and the previous core will be removed and dropped as an item.
+
+Each spawner tier has certain impruvements over the last.
+The spawn range for all spawners is 4 blocks (the same as the vanilla spawner)
+
+§1§nBasic§r
+The basic tier is very similar to the vanilla spawner.
+It §3spawns up to 4 mobs at a time with a dellay of between 10 and 40 seconds§r between spawns.
+It §crequires a player to be with in 24 blocks§r to function
+and mobs §cwill only spawn if their spawn requirements are met§r e.g. grass for cows, pigs, etc.. and darkness for monsters. 
+
+§5§nWyvern§r
+§3spawns up to 6 mobs at a time with a dellay of between 5 and 20 seconds§r between spawns.
+§3 does not requires a player nearby.§r
+§cWill only spawn if their spawn requirements are met§r e.g. grass for cows, pigs, etc.. and darkness for monsters. 
+
+§6§nDraconic§r
+§3spawns up to 8 mobs at a time with a dellay of between 2.5 and 10 seconds§r between spawns.
+§3Does not requires a player nearby.§r
+§3Ignores mob spawn requirements.§r
+
+§0§nChaotic§r
+§3spawns up to 12 mobs at a time with a dellay of between 1.25 and 5 seconds§r between spawns.
+§3Does not requires a player nearby.§r
+§3Ignores mob spawn requirements.§r
+§cWarning things may get a little chaotic if you choose to use this spawner!§r
+
+
+Note: If you have EnderIO installed you can create stalilized spawners by crafting a core with an enderIO broken spawner,
+
+Creative Note: If you wish to set the type for a spawner in creative mode you can do so using a soawn egg.</content>
+        <content alignment="CENTER" colour="f0c0" hoverColour="0000FF" index="10" link="draconicevolution:mobSoul" shadow="true" size="0" targetLocation="branch" type="link">§nYou can learn more about mob souls by clicking here</content>
+        <content index="9" size="8" type="vSpacer"/>
+        <content index="5" type="splitContainer" vAlignment="TOP">
+            <content alignment="CENTER" colour="ffb000" index="0" shadow="false" size="0" splitSide="LEFT" type="heading">§n  Draconic  </content>
+            <content alignment="CENTER" colour="0" index="0" shadow="true" size="0" splitSide="RIGHT" type="heading">§n  Chaotic  </content>
+        </content>
+        <content index="3" type="splitContainer" vAlignment="TOP">
+            <content alignment="CENTER" colour="9ff" index="0" shadow="false" size="0" splitSide="LEFT" type="heading">§n  Basic  </content>
+            <content alignment="CENTER" colour="af0060" index="0" shadow="false" size="0" splitSide="RIGHT" type="heading">§n  Wyvern  </content>
+        </content>
+        <content index="6" type="splitContainer" vAlignment="TOP">
+            <content index="0" renderSlot="false" scale="500" splitSide="LEFT" tooltip="true" type="stack">draconicevolution:draconic_spawner,1,0,{DETileData:{SyncableEnum0:2b,SyncableStack1:{id:"draconicevolution:mob_soul",Count:1b,tag:{EntityName:"Zombie"},Damage:0s}}}</content>
+            <content index="0" renderSlot="false" scale="500" splitSide="RIGHT" tooltip="true" type="stack">draconicevolution:draconic_spawner,1,0,{DETileData:{SyncableEnum0:3b,SyncableStack1:{id:"draconicevolution:mob_soul",Count:1b,tag:{EntityName:"Cow"},Damage:0s}}}</content>
+        </content>
+        <content index="4" type="splitContainer" vAlignment="TOP">
+            <content index="0" renderSlot="false" scale="500" splitSide="LEFT" tooltip="true" type="stack">draconicevolution:draconic_spawner,1,0,{DETileData:{SyncableEnum0:0b,SyncableStack1:{id:"draconicevolution:mob_soul",Count:1b,tag:{EntityName:"Pig"},Damage:0s}}}</content>
+            <content index="0" renderSlot="false" scale="500" splitSide="RIGHT" tooltip="true" type="stack">draconicevolution:draconic_spawner,1,0,{DETileData:{SyncableEnum0:1b,SyncableStack1:{id:"draconicevolution:mob_soul",Count:1b,tag:{EntityName:"Creeper"},Damage:0s}}}</content>
+        </content>
+        <content index="2" size="4" type="vSpacer"/>
+        <content index="8" type="textArea">Stabilizing a spawner turns it into a very useful tool for spawning all sorts of mobs. 
+To get one all you have to do is right click a vanilla spawner with any of the 4 DE Cores. 
+The spawner will consume the core and convert the spawner to the equivelent tier Stabilized Spawner which will be dropped as an item in world.
+This of course means there are 4 soawner tiers as there are 4 core tiers.
+
+It should be noted that when the spawner droppes it will be set to spawn the same entity as the original spawner.
+It should also be noted that once placed you can not pick up a spawner without destroying the mob soul it contains.
+In order to reset the spawner to the same or a different mob type you need to apply a new mob soul. </content>
+        <content index="7" size="8" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="1" type="heading">§nStabilized Spawner</content>
+    </entry>
+<entry branchId="draconicevolution:mobSoul" category="wiki.cat.item" icon="draconicevolution:mob_soul,1,0,{EntityName:&quot;[Random-Display]&quot;}" iconType="stack" name="Mob Soul" sortingWeight="212">
+        <content index="2" size="8" type="vSpacer"/>
+        <content alignment="CENTER" colour="f0c0" hoverColour="0000FF" index="6" link="draconicevolution:stabilizedSpawner" shadow="true" size="0" targetLocation="branch" type="link">Stabilized Mob Spawner</content>
+        <content index="4" size="8" type="vSpacer"/>
+        <content index="3" type="textArea">Mob souls are occasionally dropped my mobs when killed by a player using a weapon with the Reaper modifier.
+
+The drop chance is extramely low. 
+1 in 1000 for hostile mobs and 1 in 800 for passive mobs (configurable) for unenchanted wyvern weapons.
+But the chances of getting a soul can be impruved using the reaper enchant.
+
+DE tools essentially have a built in reaper modifier equivelent to reaper lvl 1 for Wyvern, lvl 2 for Draconic and lvl 3 for the Staff of Power.
+The calculation to figure out your drop chance is the base drop chance divided by the the weapons built in reaper modifier plus the reper enchant lvl.
+
+So the calculation for say.. A Draconic sword with reaper 5 would be as follows,
+built in modifer = 2,
+reaper lvl = 5,
+drop chance = 1000 / (2 + 5)
+
+Result: Drop chance is 1 in 142
+
+If the reaper modifer is 0 (so a non-DE weapon without the reaper enchant) there is 0 chance of getting a soul.
+
+Some mods may implement the reaper modifier on their weapons but as of the time of writing this i do not know of any that do.
+
+
+§bThe main use for a mob soul is setting the spawn type for a Stabilized spawner but they can also be used to spawn their respective entity by shift right clicking on a block with a soul.
+</content>
+        <content index="1" renderSlot="false" scale="500" tooltip="true" type="stack">draconicevolution:mob_soul,1,0,{EntityName:"[Random-Display]"}</content>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nMob Soul</content>
+    </entry>
+<entry branchId="draconicevolution:draconiumChest" category="wiki.cat.block" icon="draconicevolution:draconium_chest" iconType="stack" name="Draconium Chest" sortingWeight="110">
+        <content index="11" size="8" type="vSpacer"/>
+        <content index="9" size="8" type="vSpacer"/>
+        <content imgURL="http://ss.brandon3055.com/5wxlceb.png" index="10" scale="100" type="image"/>
+        <content imgURL="http://ss.brandon3055.com/jrffmsj.png" index="8" scale="100" type="image"/>
+        <content index="7" size="8" type="vSpacer"/>
+        <content index="6" type="recipe">draconicevolution:draconium_chest</content>
+        <content index="5" size="8" type="vSpacer"/>
+        <content index="4" type="textArea">The Draconium chest is probably one of the most versatile storage devices around!
+Not only does it have 260 inventory slots but it also hase a powerful multi slot furnace
+and a crafting table for your convenience! 
+On top of all that it has some very powerful I/O configuration options but we will get to that in a bit. First...
+
+§6The furnace§r
+
+The built in furnace is no ordinary furnace. For starters it can smelt 5 items at a time. at a very reasonable speed.
+But if that isn't enough for you it can be upgraded! By simply placing a wyvern, Awakened or Chaotic core
+in the furnace upgrade slot you can make it even faster! 
+And if that still wasn't enough as long as there is a wyvern core or better in the upgrade slot the furnace will double ores!
+
+But it should be noted that while increasing the speed this also increases the energy consumption
+a lot more that it decreases the process time.
+
+It should also be noted that when upgraded the core is not actually consumed and can be removed at any time.
+
+The furnace requires power which can be supplied externally or via a flux capacitor in its capacitor slot.
+
+The furnace also has an auto feed option which does exactly what you think.
+It automatically feeds the furnace smeltable items from the inventory.
+There are 4 feed modes:
+
+§bOFF§r
+Self explanatory...
+
+§bFILL§r
+Will only feed the furnace when there are already items smelting 
+and will only keep the existing stacks currently smelting full.
+Will NOT start to smelt items types that you have not manually
+placed in the furnace,
+
+§bLOCK§r
+Pretty much the same as FILL except it will not smelt the last item.
+meaning as soon as more of that item show up in the inventory
+it will automatically start feeding again.
+
+§bALL§r
+Smelts every smeltable item in the inventory.
+
+Next...
+The §6Crafting Grid§r
+Actually there's not much to say here.
+It looks like a crafting table,
+It smells like a crafting table,
+It tastes like a crafting table...
+It is a crafting table!
+With full JEI support!
+
+Next.
+§6Configurable IO Regions§r
+This is where things get very interesting...
+By default the inventory works like any other inventory. You can insert or extract items from any slot from any side of the block.
+And the furnace can also insert or extract from any slot.
+But this can be changed! 
+
+You have the ability to split the inventory up into up to 6 separate I/O regions. 
+Each region can be separately configured with total control over what sides of the chest the slots can be accessed from
+with the ability to mark sides as input and or output only or just disabled completely.
+You can also configure which regions the internal furnace can accept or insert items into.
+There is also a "default region" which controls all slots that are not assigned to a region and can be configured like all other regions.
+
+To assign slots to a region you simply select the region in the editor and click and drag in the inventory to draw a rectangle around the slots you want in the region.
+Also when you have the region editor open you can simply click on existing regions to switch between them 
+
+The uses for this are endless but 1 simple example...
+You create 2 regions. 
+Region 1 only accepts items from the left side of the chest and the furnace can onlu pull from region 1.
+Region 2 only allows items to be extracted from the right side of the chest and the furnace can only output to region 2.
+
+Now when you pump items into the left side on the chest they will go to region 1, get smelted and then output to region 2 ready to be extracted from the right side of the chest.
+
+§6Also! if ALL that wasn't enough§r
+The chest stores its inventory when broken,
+And you can make it any colour you want!!!</content>
+        <content index="3" size="8" type="vSpacer"/>
+        <content alignment="CENTER" colour="ffff" index="2" shadow="true" size="0" type="heading">Much more then just a bigger inventory!</content>
+        <content index="1" size="4" type="vSpacer"/>
+        <content alignment="LEFT" index="0" shadow="true" size="2" type="heading">§nDraconium Chest</content>
     </entry>
 </mod>
