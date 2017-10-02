@@ -6,6 +6,12 @@
       "toollist": [
         "BiomesOPlenty:axeAmethyst",
         "BiomesOPlenty:axeMud",
+        "appliedenergistics2:certus_quartz_axe",
+        "appliedenergistics2:item.ToolCertusQuartzAxe",
+        "appliedenergistics2:item.ToolNetherQuartzAxe",
+        "appliedenergistics2:nether_quartz_axe",
+        "astralsorcery:itemchargedcrystalaxe",
+        "astralsorcery:itemcrystalaxe",
         "draconicevolution:draconic_axe",
         "draconicevolution:wyvern_axe",
         "extrautils2:fireaxe",
@@ -162,6 +168,10 @@
       "toollist": [
         "BiomesOPlenty:hoeAmethyst",
         "BiomesOPlenty:hoeMud",
+        "appliedenergistics2:certus_quartz_hoe",
+        "appliedenergistics2:item.ToolCertusQuartzHoe",
+        "appliedenergistics2:item.ToolNetherQuartzHoe",
+        "appliedenergistics2:nether_quartz_hoe",
         "draconicevolution:draconic_hoe",
         "extrautils2:sickle_diamond",
         "extrautils2:sickle_gold",
@@ -233,6 +243,12 @@
       "toollist": [
         "BiomesOPlenty:pickaxeAmethyst",
         "BiomesOPlenty:pickaxeMud",
+        "appliedenergistics2:certus_quartz_pickaxe",
+        "appliedenergistics2:item.ToolCertusQuartzPickaxe",
+        "appliedenergistics2:item.ToolNetherQuartzPickaxe",
+        "appliedenergistics2:nether_quartz_pickaxe",
+        "astralsorcery:itemchargedcrystalpickaxe",
+        "astralsorcery:itemcrystalpickaxe",
         "draconicevolution:draconic_pick",
         "draconicevolution:wyvern_pick",
         "minecraft:diamond_pickaxe",
@@ -277,6 +293,8 @@
         "thermalfoundation:tool.pickaxe_tin"
       ],
       "blocklist": [
+        "appliedenergistics2:charged_quartz_ore/0",
+        "appliedenergistics2:quartz_ore/0",
         "biomesoplenty:gem_ore/0",
         "biomesoplenty:gem_ore/1",
         "biomesoplenty:gem_ore/2",
@@ -472,6 +490,10 @@
       "toollist": [
         "BiomesOPlenty:shovelAmethyst",
         "BiomesOPlenty:shovelMud",
+        "appliedenergistics2:item.ToolCertusQuartzSpade",
+        "appliedenergistics2:item.ToolNetherQuartzSpade",
+        "astralsorcery:itemchargedcrystalshovel",
+        "astralsorcery:itemcrystalshovel",
         "draconicevolution:draconic_shovel",
         "draconicevolution:wyvern_shovel",
         "minecraft:diamond_shovel",

@@ -2,23 +2,6 @@
 	"name" : "loot3",
 	"loot_rules" : [
 		{	
-			"type" : "ARMOUR", 
-			"loot" : [
-				{"data" : {"name" : "blockarmor:slime_grass_4_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:slime_grass_4_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:slime_grass_4_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:slime_grass_4_boots"}, "weight" : 3},
-				
-				{"data" : {"name" : "blockarmor:slime_dirt_3_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:slime_dirt_3_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:slime_dirt_3_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:slime_dirt_3_boots"}, "weight" : 3}
-			],
-			"level" : 3,
-			"each" : true,
-			"quantity" : 1
-		},
-		{	
 			"type" : "WEAPONS", 
 			"loot" : [
 

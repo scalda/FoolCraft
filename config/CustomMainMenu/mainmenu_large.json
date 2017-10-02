@@ -3,7 +3,7 @@
     {
         "title":
         {
-            "image" : "mainmenu:title2.png",
+            "image" : "mainmenu:modpack.png",
             "posX" : -215,
             "posY" : 50,
             "width" : 433,
@@ -240,7 +240,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Pack Version 1.5",
+			"text" : "Pack Version 2.2",
             "posX" : 3,
             "posY" : -12,
 			"fontSize" : .6,

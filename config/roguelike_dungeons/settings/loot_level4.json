@@ -2,24 +2,6 @@
 	"name" : "loot4",
 	"loot_rules" : [
 		{	
-			"type" : "ARMOUR", 
-			"loot" : [
-				{"data" : {"name" : "blockarmor:obsidian_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:obsidian_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:obsidian_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:obsidian_boots"}, "weight" : 3},
-
-				{"data" : {"name" : "blockarmor:firewood_0_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:firewood_0_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:firewood_0_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:firewood_0_boots"}, "weight" : 3}
-
-			],
-			"level" : 4,
-			"each" : true,
-			"quantity" : 1
-		},
-		{	
 			"type" : "WEAPONS", 
 			"loot" : [
 

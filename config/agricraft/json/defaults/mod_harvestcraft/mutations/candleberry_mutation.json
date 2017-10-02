@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/candleberry_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "candleberry_crop",
-  "parent1": "cactusfruit_crop",
-  "parent2": "grape_crop"
-}

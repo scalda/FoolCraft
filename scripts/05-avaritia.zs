@@ -1,16 +1,3 @@
-#Dragon Heart
-mods.avaritia.ExtremeCrafting.addShaped(<draconicevolution:dragon_heart>, [
-	[null, <minecraft:dragon_breath>, <minecraft:dragon_breath>, <minecraft:dragon_breath>, null, <minecraft:dragon_breath>, <minecraft:dragon_breath>, <minecraft:dragon_breath>, null ], 
-	[<minecraft:dragon_breath>, null, null, null, <minecraft:dragon_breath>, null, null, null, <minecraft:dragon_breath>], 
-	[<minecraft:dragon_breath>, null, null, <minecraft:end_crystal>, <minecraft:dragon_egg>, <minecraft:end_crystal>, null, null, <minecraft:dragon_breath>], 
-	[<minecraft:dragon_breath>, null, <minecraft:end_crystal>, <minecraft:dragon_egg>, null, <minecraft:dragon_egg>, <minecraft:end_crystal>, null, <minecraft:dragon_breath>], 
-	[null, <minecraft:dragon_breath>, null, <minecraft:end_crystal>, <minecraft:dragon_egg>, <minecraft:end_crystal>, null, <minecraft:dragon_breath>, null], 
-	[null, <minecraft:dragon_breath>, null, null, <minecraft:end_crystal>, null, null, <minecraft:dragon_breath>, null], 
-	[null, null, <minecraft:dragon_breath>, null, null, null, <minecraft:dragon_breath>, null, null], 
-	[null, null, null, <minecraft:dragon_breath>, null, <minecraft:dragon_breath>, null, null, null], 
-	[null, null, null, null, <minecraft:dragon_breath>, null, null, null, null] 
-]);
-
 #Creative Powercell
 mods.avaritia.ExtremeCrafting.addShaped(<rftools:powercell_creative>, 
 [
@@ -176,87 +163,48 @@ mods.avaritia.ExtremeCrafting.addShaped(<extrautils2:passivegenerator:6>,
 ]);
 
 #Creative Controller
-mods.avaritia.ExtremeCrafting.addShaped(<refinedstorage:controller:1>, 
+mods.avaritia.ExtremeCrafting.addShaped(<appliedenergistics2:creative_energy_cell>, 
 [
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:processor:5>, 
-		<refinedstorage:processor:5>, <refinedstorage:processor:5>, <refinedstorage:processor:5>,
-		<refinedstorage:processor:5>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:24>, 
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:24>, <appliedenergistics2:material:24>,
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:processor:5>, 
-		<refinedstorage:controller:0>, <refinedstorage:controller:0>, <refinedstorage:controller:0>,
-		<refinedstorage:processor:5>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:24>, 
+		<appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), <appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), <appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}),
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 		
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:processor:5>, 
-		<refinedstorage:controller:0>, <tp:netherstar_block>, <refinedstorage:controller:0>, 
-		<refinedstorage:processor:5>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:24>, 
+		<appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), <tp:netherstar_block>, <appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), 
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:processor:5>, 
-		<refinedstorage:controller:0>, <refinedstorage:controller:0>, <refinedstorage:controller:0>, 
-		<refinedstorage:processor:5>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:24>, 
+		<appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), <appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), <appliedenergistics2:dense_energy_cell>.withTag({internalMaxPower: 1600000.0, internalCurrentPower: 1600000.0}), 
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:processor:5>, 
-		<refinedstorage:processor:5>, <refinedstorage:processor:5>, <refinedstorage:processor:5>, 
-		<refinedstorage:processor:5>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:24>, 
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:24>, <appliedenergistics2:material:24>, 
+		<appliedenergistics2:material:24>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	], 
-	[	<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, 
-		<refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>, <refinedstorage:quartz_enriched_iron>
+	[	<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>, 
+		<appliedenergistics2:material:10>, <appliedenergistics2:material:10>, <appliedenergistics2:material:10>
 	]
 ]);
 
-#Creative RF Engine
-mods.avaritia.ExtremeCrafting.addShaped(<progressiveautomation:CreativeRFEngine>, 
-[
-	[	null, null, null, 
-		null, null, null, 
-		null, null, null
-	], 
-	[	null, null, null, 
-		null, null, null, 
-		null, null, null
-	], 
-	[	null, null, <iskalliumreactors:iskallium_ore>, 
-		<progressiveautomation:WitherIron>, <progressiveautomation:WitherIron>, <progressiveautomation:WitherIron>, 
-		<iskalliumreactors:iskallium_ore>, null, null
-	], 
-	[	null, null, <progressiveautomation:WitherGold>, 
-		<draconicevolution:draconium_capacitor:0>, <progressiveautomation:RFEngine>, <draconicevolution:draconium_capacitor:0>, 
-		<progressiveautomation:WitherGold>, null, null
-	], 
-	[	null, null, <progressiveautomation:WitherGold>, 
-		<progressiveautomation:RFEngine>, <minecraft:redstone_block>, <progressiveautomation:RFEngine>, 
-		<progressiveautomation:WitherGold>, null, null
-	], 
-	[	null, null, <progressiveautomation:WitherGold>, 
-		<draconicevolution:draconium_capacitor:0>, <progressiveautomation:RFEngine>, <draconicevolution:draconium_capacitor:0>, 
-		<progressiveautomation:WitherGold>, null, null
-	], 
-	[	null, null, <iskalliumreactors:iskallium_ore>, 
-		<progressiveautomation:WitherIron>, <progressiveautomation:WitherIron>, <progressiveautomation:WitherIron>, 
-		<iskalliumreactors:iskallium_ore>, null, null
-	], 
-	[	null, null, null, 
-		null, null, null, 
-		null, null, null
-	], 
-	[	null, null, null, 
-		null, null, null, 
-		null, null, null
-	]
-]);
+
 
 #Creative Mana Pool
 mods.avaritia.ExtremeCrafting.addShaped(<botania:pool:1>, 
@@ -274,15 +222,15 @@ mods.avaritia.ExtremeCrafting.addShaped(<botania:pool:1>,
 		<avaritia:endest_pearl>, <botania:spark>, <botania:manaResource:14>
 	], 
 	[	null, <botania:manaResource:14>, <botania:spark>, 
-		<botanicaladdons:aquaGlass>, <avaritia:endest_pearl>, <botanicaladdons:aquaGlass>, 
+		<botania:elfGlass>, <avaritia:endest_pearl>, <botania:elfGlass>, 
 		<botania:spark>, <botania:manaResource:14>, null
 	], 
 	[	null, <botania:manaResource:14>, <botania:spark>, 
-		<botanicaladdons:aquaGlass>, <botania:missileRod>, <botanicaladdons:aquaGlass>, 
+		<botania:elfGlass>, <botania:missileRod>, <botania:elfGlass>, 
 		<botania:spark>, <botania:manaResource:14>, null
 	], 
 	[	null, null, <avaritia:resource:6>, 
-		<botania:spark>, <botanicaladdons:aquaGlass>, <botania:spark>, 
+		<botania:spark>, <botania:elfGlass>, <botania:spark>, 
 		<avaritia:resource:6>, null, null
 	], 
 	[	<botania:pool:3>, <botania:bifrostPerm>, <botania:bifrostPerm>, 

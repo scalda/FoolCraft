@@ -7,23 +7,13 @@ print("Initializing 'recipes'...");
 
 ## REMOVED
 
-recipes.remove(<mw:steeldust> * 4);
 recipes.remove(<railcraft:generic:1>);
 recipes.remove(<railcraft:generic:10>);
 recipes.remove(<railcraft:generic:2>);
 recipes.remove(<railcraft:generic>);
 recipes.remove(<railcraft:generic:3>);
-recipes.remove(<mw:tantalumingot>);
-recipes.remove(<mw:aluminumingot>);
-recipes.remove(<mw:silicon>);
-recipes.remove(<mw:tiningot>);
-recipes.remove(<mw:copperingot>);
-recipes.remove(<mw:leadingot>);
-recipes.remove(<mw:steelingot>);
 recipes.remove(<railcraft:ingot>);
-recipes.remove(<refinedstorage:silicon>);
 recipes.remove(<chisel:chisel_hitech>);
-recipes.remove(<mw:steelingot>);
 recipes.remove(<extrautils2:sickle_wood>);
 recipes.remove(<extrautils2:sickle_stone>);
 recipes.remove(<extrautils2:sickle_iron>);
@@ -31,31 +21,19 @@ recipes.remove(<extrautils2:sickle_gold>);
 recipes.remove(<extrautils2:sickle_diamond>);
 recipes.remove(<iskalliumreactors:steel_ingot>);
 recipes.remove(<iskalliumreactors:steel_casing>);
-recipes.remove(<mw:Emerald>);
-recipes.remove(<mw:Gold>);
-recipes.remove(<mw:Diamond>);
-recipes.remove(<mw:Sapphire>);
+
+
+
 
 #Remove ChunkLoaders (to force the use of FTBU to manage chunkloading)
 recipes.remove(<extrautils2:chunkloader>);
 
 
 //furnace removal
-furnace.remove(<mw:steelingot>);
-furnace.remove(<mw:tantalumingot>);
-furnace.remove(<mw:aluminumingot>);
-furnace.remove(<mw:silicon>);
-furnace.remove(<mw:tiningot>);
-furnace.remove(<mw:copperingot>);
-furnace.remove(<mw:leadingot>);
 
 
 ## ADDED
 
-//Agricraft
-recipes.addShapeless(<agricraft:agri_seed>.withTag({agri_analyzed: 0, agri_strength: 1, agri_gain: 1, agri_seed: "carrot_plant", agri_growth: 1}), [<ore:cropCarrot>]);
-recipes.addShaped(<agricraft:water_tank>.withTag({agri_material_meta: 0, agri_material: "minecraft:planks"}), [[<minecraft:planks>, null, <minecraft:planks>], [<minecraft:planks>, null, <minecraft:planks>], [<minecraft:planks>, <minecraft:planks>, <minecraft:planks>]]);
-recipes.addShaped(<agricraft:water_channel_normal>, [[<ore:plankWood>, null, <ore:plankWood>], [null, <ore:plankWood>, null]]);
 
 //Steel Recipe
 recipes.remove(<railcraft:generic:3>);
@@ -66,9 +44,6 @@ recipes.removeShaped(<thermalfoundation:material:160> * 3, [[<mysticalagricultur
 //Boat from any sort of Planks
 recipes.addShaped(<minecraft:boat>, [[<ore:plankWood>, null, <ore:plankWood>], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]]);
 
-//Watering Can Progression
-recipes.remove(<tp:watering_can>);
-recipes.addShaped(<tp:watering_can>, [[<minecraft:iron_ingot>, <minecraft:dye:15>, null], [<minecraft:iron_ingot>,  <extrautils2:wateringcan:*>, <minecraft:iron_ingot>], [null, <minecraft:iron_ingot>, null]]);
 
 //Recipe Change for Growth Crystals
 recipes.remove(<tp:growth_block>);
@@ -76,7 +51,7 @@ recipes.addShaped(<tp:growth_block>, [[<minecraft:iron_ingot>, <tp:bone_block>, 
 
 //Adding recipe for Dragon Egg since mojang decided to make it so you can only get 1 per wolrd instead of having an egg every time you kill the dragon
 recipes.remove(<minecraft:dragon_egg>);
-recipes.addShaped(<minecraft:dragon_egg>, [[<minecraft:end_crystal>, <minecraft:ender_eye>, <minecraft:end_crystal>], [<minecraft:ender_pearl>, <minecraft:nether_star>, <minecraft:ender_pearl>], [<minecraft:dragon_breath>, <draconicevolution:dragon_heart>, <minecraft:dragon_breath>]]);
+recipes.addShaped(<minecraft:dragon_egg>, [[<minecraft:end_crystal>, <minecraft:ender_eye>, <minecraft:end_crystal>], [<minecraft:ender_pearl>, <minecraft:nether_star>, <minecraft:ender_pearl>], [<minecraft:dragon_breath>, <minecraft:nether_star>, <minecraft:dragon_breath>]]);
 
 //Iskallian reactor casing
 recipes.addShaped(<iskalliumreactors:steel_casing>, [[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>], [<ore:ingotSteel>, <iskalliumreactors:iskallium_essence>, <ore:ingotSteel>], [<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>]]);
@@ -142,8 +117,6 @@ recipes.addShapeless(<flyringbaublemod:AngelRing:3>, [<extrautils2:angelring:3>]
 recipes.addShapeless(<flyringbaublemod:AngelRing:4>, [<extrautils2:angelring:4>]);
 recipes.addShapeless(<flyringbaublemod:AngelRing:5>, [<extrautils2:angelring:5>]);
 
-//mw steel from normal steel
-furnace.addRecipe(<mw:steelingot>, <thermalfoundation:material:160>, 0.0);
 
 //Nametag
 recipes.addShaped(<minecraft:name_tag>, [[null, <minecraft:string>, <ore:string>], [null, <ore:slimeball>, <ore:string>], [<ore:paper>, null, null]]);
@@ -173,3 +146,7 @@ recipes.addShaped(<botania:biomeStoneA:6> * 8, [[<botania:livingrock:0>, <botani
 [<botania:livingrock:0>, <extrautils2:biomemarker>.withTag({Biome: "minecraft:taiga"}).reuse(), <botania:livingrock:0>], [<botania:livingrock:0>, <botania:manaResource:23>, <botania:livingrock:0>]]);
 recipes.addShaped(<botania:biomeStoneA:7> * 8, [[<botania:livingrock:0>, <botania:exchangeRod>.reuse(), <botania:livingrock:0>], 
 [<botania:livingrock:0>, <extrautils2:biomemarker>.withTag({Biome: "minecraft:mesa"}).reuse(), <botania:livingrock:0>], [<botania:livingrock:0>, <botania:manaResource:23>, <botania:livingrock:0>]]);
+
+
+//forge bucket to normal bucket
+recipes.addShapeless(<minecraft:bucket>, [<forge:bucketFilled>.noReturn()]);

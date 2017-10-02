@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/peanut_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "peanut_crop",
-  "parent1": "peas_crop",
-  "parent2": "bambooshoot_crop"
-}

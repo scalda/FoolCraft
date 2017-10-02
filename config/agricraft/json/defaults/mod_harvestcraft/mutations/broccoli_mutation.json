@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/broccoli_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "broccoli_crop",
-  "parent1": "lettuce_crop",
-  "parent2": "soybean_crop"
-}

@@ -19,4 +19,3 @@ loot.addItemEntry(<lootbags:itemlootbag:25>, 11);
 loot.addItemEntry(<lootbags:itemlootbag:26>, 11);
 loot.addItemEntry(<lootbags:itemlootbag:27>, 11);
 loot.addItemEntry(<lootbags:itemlootbag:28>, 11);
-loot.addItemEntry(<lootbags:itemlootbag:30>, 11);

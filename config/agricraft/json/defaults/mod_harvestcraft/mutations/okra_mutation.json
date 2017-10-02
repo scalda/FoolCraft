@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/okra_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "okra_crop",
-  "parent1": "bean_crop",
-  "parent2": "leek_crop"
-}

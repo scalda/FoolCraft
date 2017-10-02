@@ -4,6 +4,9 @@
   "blackList": [
     "VillagerGolem",
     "Villager",
-    "Chicken"
+    "chickens.ChickensChicken",
+	"FluidCow",
+	"Bandit",
+	"Gassy"
   ]
 }

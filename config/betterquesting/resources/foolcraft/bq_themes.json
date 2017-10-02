@@ -1,0 +1,7 @@
+[
+    {
+        name:"foolcraft",
+        texture:"foolcraft:textures/gui/fool_gui.png",
+        textColor:0
+    },
+]

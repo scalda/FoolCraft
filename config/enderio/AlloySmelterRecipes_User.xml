@@ -28,4 +28,34 @@
 
 <AlloySmelterRecipes>
 
+	<recipeGroup name="EnderIO" > <!-- Required for EnderIO to function correctly. -->
+    <recipe name="Silicon Ingot" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="sand" />
+        <itemStack oreDictionary="itemSilicon" />
+      </input>
+      <output>
+        <itemStack modID="mw" itemName="silicon" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Tantalum Ingot" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="ingotTin" />
+        <itemStack oreDictionary="itemSilicon" />
+      </input>
+      <output>
+        <itemStack modID="mw" itemName="tantalumingot" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	<recipe name="Aluminum Ingot" energyCost="10000" >
+      <input>
+        <itemStack oreDictionary="ingotAluminum" />
+        <itemStack oreDictionary="itemSilicon" />
+      </input>
+      <output>
+        <itemStack modID="mw" itemName="aluminumingot" itemMeta="0" exp="0.5" />
+      </output>
+    </recipe>
+	</recipeGroup>
+
 </AlloySmelterRecipes>

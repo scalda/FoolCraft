@@ -1,8 +1,0 @@
-{
-  "path": "mod_harvestcraft/mutations/raspberry_mutation.json",
-  "enabled": true,
-  "chance": 0.5,
-  "child": "raspberry_crop",
-  "parent1": "strawberry_crop",
-  "parent2": "soybean_crop"
-}
