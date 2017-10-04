@@ -240,7 +240,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Pack Version 2.2",
+			"text" : "Pack Version 2.3",
             "posX" : 3,
             "posY" : -12,
 			"fontSize" : .6,

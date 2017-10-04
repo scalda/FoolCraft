@@ -1,0 +1,44 @@
+{
+  "populate": {
+    "titanium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "mw:titaniumore",
+        "material": "stone",
+        "cluster-size": 3
+      },
+      "cluster-count": 2,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    },
+    "RubyOre": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "mw:rubyore",
+        "material": "stone",
+        "cluster-size": 3
+      },
+      "cluster-count": 2,
+      "min-height": 0,
+      "max-height": 32,
+      "retrogen": true,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}
