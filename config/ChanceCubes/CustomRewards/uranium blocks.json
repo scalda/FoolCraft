@@ -1,0 +1,19 @@
+{
+  "uranium": {
+    "chance": -6,
+    "Message": [
+      {
+        "message": "have some hard blocks on me!",
+        "delay": 5,
+        "serverWide": false,
+        "range": 25
+      }
+    ],
+    "Command": [
+      {
+        "command": "/give @p chisel:blockUranium 64 2",
+        "delay": 5
+      }
+    ]
+  }
+}

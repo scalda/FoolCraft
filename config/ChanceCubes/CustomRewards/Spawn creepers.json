@@ -1,0 +1,45 @@
+{
+  "Invis charged Creeper": {
+    "chance": -60,
+    "Message": [
+      {
+        "message": "Oh no, what is that sound!!",
+        "delay": 5,
+        "serverWide": false,
+        "range": 25
+      }
+    ],
+    "Command": [
+      {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5},
+	  {"command": "/summon Creeper ~ ~1 ~ {powered:1,CustomName:Joseph,CustomNameVisible:1,Health:10,ExplosionRadius:12,Fuse:22,ActiveEffects:[{Id:14,Amplifier:0,Duration:2147483647}]}", "delay": 5}
+    ],
+    "Particle": [
+      {
+        "particle": "explode",
+        "delay": 0
+      }
+    ]
+  }
+}

@@ -126,11 +126,6 @@
 				{"data" : {"name" : "chancecubes:compact_Giant_Chance_Cube"}, "weight" : 1},
 				{"data" : {"name" : "chancecubes:chance_Icosahedron"}, "weight" : 1},
 				{"data" : {"name" : "lootbags:itemlootbag", "meta" : 2}, "weight" : 5},
-				{"data" : {"name" : "chickens:spawn_egg", "meta" : 200}, "weight" : 1},
-				{"data" : {"name" : "chickens:spawn_egg", "meta" : 500}, "weight" : 1},
-				{"data" : {"name" : "chickens:spawn_egg", "meta" : 201}, "weight" : 1},
-				{"data" : {"name" : "chickens:spawn_egg", "meta" : 202}, "weight" : 1},
-				{"data" : {"name" : "chickens:spawn_egg", "meta" : 303}, "weight" : 1},
 				{"data" : {"name" : "nether_star"}, "weight" : 1}
 
 			],

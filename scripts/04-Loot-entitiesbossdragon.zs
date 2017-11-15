@@ -9,6 +9,8 @@ val dragon = LootTables.getTable("minecraft:entities/boss/dragon");
 val main = dragon.addPool("main", 1, 1, 1, 1);
 val loot = dragon.addPool("loot", 1, 1, 1, 1);
 
+dragon.removePool("Ender IO");
+
 //dragon loot
 main.addItemEntry(<minecraft:dragon_egg>, 100);
 loot.addItemEntry(<lootbags:itemlootbag:21>, 11);

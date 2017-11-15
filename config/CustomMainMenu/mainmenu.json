@@ -240,7 +240,7 @@
             "alignment" : "bottom_left"
 		},
 		"modpack":{
-			"text" : "Pack Version 2.3",
+			"text" : "Pack Version 2.5",
             "posX" : 3,
             "posY" : -12,
 			"fontSize" : .6,
@@ -249,7 +249,7 @@
             "alignment" : "bottom_left"
 		},
 		"newsLine1":{
-			"text" : "Hand Crafted for Your Enjoyment by: iskall85, scalda, CriticalMole, HazDS and Jo_Mamma75",
+			"text" : "Hand Crafted for Your Enjoyment by: iskall85, scalda, HazDS and Jo_Mamma75",
             "posX" : -134,
             "posY" : -10,
 			"fontSize" : .6,

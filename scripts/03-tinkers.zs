@@ -13,7 +13,7 @@ print("Initializing 'tinkers'...");
 #mods.tconstruct.Casting.removeBasinRecipe(<chisel:blockLead>);
 #mods.tconstruct.Casting.removeBasinRecipe(<chisel:blockTin>);
 #mods.tconstruct.Casting.removeBasinRecipe(<chisel:blockSteel>);
-#mods.tconstruct.Casting.removeBasinRecipe(<avaritia:block_resource:1>);
+mods.tconstruct.Casting.removeBasinRecipe(<avaritia:block_resource:1>);
 
 //table
 
@@ -21,7 +21,7 @@ print("Initializing 'tinkers'...");
 #mods.tconstruct.Casting.removeTableRecipe(<railcraft:nugget:3>);
 #mods.tconstruct.Casting.removeTableRecipe(<railcraft:ingot>);
 #mods.tconstruct.Casting.removeTableRecipe(<railcraft:nugget:1>);
-#mods.tconstruct.Casting.removeTableRecipe(<avaritia:resource:6>);
+mods.tconstruct.Casting.removeTableRecipe(<avaritia:resource:6>);
 
 //Tinkers add
 

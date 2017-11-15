@@ -1,0 +1,18 @@
+{
+  "CCdoors": {
+    "chance": -25,
+    "isGiantCubeReward": false,
+    "Schematic": [
+      {
+        "fileName": "CCdoors.schematic",
+        "falling": false,
+        "delay": 3,
+        "xOffSet": 0,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "relativeToPlayer": false,
+        "includeAirBlocks": false
+      }
+	]
+  }
+}

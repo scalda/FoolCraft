@@ -1,0 +1,14 @@
+{
+  "jeff":
+  {
+    "chance": -6,
+    "Command":
+    [
+      {"command":"/summon Chicken ~ ~25 ~ {CustomName:\"Jeff\",CustomNameVisible:1,Glowing:1,FallFlying:1,ArmorItems:[{id:\"minecraft:elytra\"}],Age:0}", "delay": 5}
+    ],
+    "Message":
+    [
+      {"message":"Look up!", "delay":5, "serverWide": false, "range": 25}
+    ]
+  }
+}

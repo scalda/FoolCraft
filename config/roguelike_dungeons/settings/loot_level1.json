@@ -4,15 +4,6 @@
 		{	
 			"type" : "ARMOUR", 
 			"loot" : [
-				{"data" : {"name" : "blockarmor:log_0_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:log_0_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:log_0_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:log_0_boots"}, "weight" : 3},
-				
-				{"data" : {"name" : "blockarmor:log_1_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:log_1_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:log_1_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:log_1_boots"}, "weight" : 3}
 			],
 			"level" : 1,
 			"each" : true,

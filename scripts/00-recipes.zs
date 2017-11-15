@@ -150,3 +150,12 @@ recipes.addShaped(<botania:biomeStoneA:7> * 8, [[<botania:livingrock:0>, <botani
 
 //forge bucket to normal bucket
 recipes.addShapeless(<minecraft:bucket>, [<forge:bucketFilled>.noReturn()]);
+
+//end portal frame
+recipes.addShaped(<minecraft:end_portal_frame>, [[<thermalfoundation:material:167>, <thermalfoundation:material:167>, <thermalfoundation:material:167>], [<minecraft:end_stone>, <minecraft:ender_eye>, <minecraft:end_stone>], [<minecraft:end_stone>, <minecraft:end_stone>, <minecraft:end_stone>]]);
+
+//Admin RC Charge unit
+recipes.addShaped(<railcraft:charge_feeder:1>, [[<minecraft:rail>, <enderio:blockCapBank:3>, <minecraft:rail>], [<enderio:blockCapBank:3>, <forge:bucketFilled>.withTag({FluidName: "creosote", Amount: 1000}), <enderio:blockCapBank:3>], [<minecraft:rail>, <enderio:blockCapBank:3>, <minecraft:rail>]]);
+
+//abyssal stone recipe
+recipes.addShaped(<railcraft:generic:8> * 4, [[<mysticalagriculture:basalt_essence>, <mysticalagriculture:basalt_essence>, <mysticalagriculture:basalt_essence>], [<mysticalagriculture:basalt_essence>, <ore:stone>, <mysticalagriculture:basalt_essence>], [<mysticalagriculture:basalt_essence>, <mysticalagriculture:basalt_essence>, <mysticalagriculture:basalt_essence>]]);

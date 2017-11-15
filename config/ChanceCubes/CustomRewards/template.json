@@ -1,0 +1,10 @@
+//{
+  "Jeb": 
+  {
+    "chance": -6,
+		"Command":
+		[
+			{"command":"/summon Sheep ~ ~1 ~ {Passengers:[{id:Zombie,CustomName:jeb_,CustomNameVisible:1,Health:10,ActiveEffects:[{Id:5,Amplifier:0,Duration:2147483647},{Id:11,Amplifier:0,Duration:2147483647},{Id:14,Amplifier:0,Duration:2147483647}]}]}", "delay": 5}
+		]
+	}
+}

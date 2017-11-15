@@ -1,0 +1,11 @@
+{
+  "fall": 
+  {
+    "chance": -6,
+		"Command":
+		[
+			{"command":"/execute @p ~ ~ ~ fill ~-1 ~ ~-1 ~1 ~1 ~1 minecraft:slime", "delay": 5},
+			{"command":"/tp @p ~ 64 ~", "delay": 10}
+		]
+	}
+}

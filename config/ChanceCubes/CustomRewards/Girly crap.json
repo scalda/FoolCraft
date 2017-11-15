@@ -1,0 +1,26 @@
+{
+  "girly-crap": {
+    "chance": 16,
+    "isGiantCubeReward": false,
+    "Message": [
+      {
+        "message": "What the heck is all this girly crap?!!",
+        "delay": 5,
+        "serverWide": false,
+        "range": 25
+      }
+    ],
+    "Schematic": [
+      {
+        "fileName": "Girly.schematic",
+        "falling": false,
+        "delay": 3,
+        "xOffSet": 0,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "relativeToPlayer": false,
+        "includeAirBlocks": false
+      }
+    ]
+  }
+}

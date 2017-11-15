@@ -28,3 +28,6 @@ print("Initializing 'namechanges'...");
 <extrautils2:drum:4>.displayName = "Fool's Drum";
 
 <minecraft:skull:3>.displayName = "Fool's Head";
+<storagedrawers:upgradeCreative:0>.displayName = "Fool's Storage Upgrade";
+
+

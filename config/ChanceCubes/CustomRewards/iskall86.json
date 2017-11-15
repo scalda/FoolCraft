@@ -1,0 +1,14 @@
+{
+  "iskall86":
+  {
+    "chance": -7,
+    "Message":
+    [
+      {"message":"Now who is this handsome fellow!", "delay":5, "serverWide": false, "range": 25}
+    ],
+    "Command":
+    [
+      {"command":"/summon Zombie ~ ~1 ~ {CustomName:\"Iskall86\",CustomNameVisible:1,LeftHanded:0,Health:60,Attributes:[{Name:\"generic.movementSpeed\",Base:10f},{Name:\"generic.attackDamage\",Base:20}],ArmorItems:[{id:\"blockarmor:stone_3_boots\"},{id:\"blockarmor:stone_3_leggings\"},{id:\"blockarmor:stone_3_chestplate\"},{id:\"minecraft:skull\",Damage:3,tag:{SkullOwner:\"iskall86\"}}]}", "delay": 5}
+    ]
+  }
+}

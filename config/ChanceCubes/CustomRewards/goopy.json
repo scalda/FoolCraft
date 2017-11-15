@@ -1,0 +1,18 @@
+{
+  "goopy": {
+    "chance": 100,
+    "isGiantCubeReward": false,
+    "Schematic": [
+      {
+        "fileName": "goopy.schematic",
+        "falling": false,
+        "delay": 3,
+        "xOffSet": 0,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "relativeToPlayer": true,
+        "includeAirBlocks": true
+      }
+    ]
+  }
+}

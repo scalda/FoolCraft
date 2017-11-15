@@ -1,0 +1,10 @@
+{
+  "diorite-love": 
+  {
+    "chance": -6,
+		"Command":
+		[
+			{"command":"/tellraw @a {\"text\":\"Iskall85: I sure do love diorite!\"}", "delay": 5}
+		]
+	}
+}

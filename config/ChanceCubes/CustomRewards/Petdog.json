@@ -1,0 +1,21 @@
+{
+  "dog": {
+    "chance": -6,
+    "Command": [
+      {"command": "/summon Wolf ~ ~1 ~ {CustomName:pooch,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Wolf ~ ~1 ~ {CustomName:pooch,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Wolf ~ ~1 ~ {CustomName:pooch,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Wolf ~ ~1 ~ {CustomName:pooch,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Wolf ~ ~1 ~ {CustomName:pooch,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/give @p minecraft:bone 16 0", "delay": 5}
+    ],
+    "Message": [
+      {
+        "message": "Make some friends named pooch!",
+        "delay": 5,
+        "serverWide": false,
+        "range": 25
+      }
+    ]
+  }
+}

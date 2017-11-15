@@ -1,0 +1,12 @@
+{
+  "iskallium": {
+    "chance": 16,
+    "isGiantCubeReward": false,
+    "Command":
+		[
+			{"command":"/fill ~-1 ~ ~-1 ~1 ~2 ~1 iskalliumreactors:iskallium_ore", "delay": 5},
+			{"command":"/summon PrimedTnt", "delay": 100},
+			{"command":"/kill @e[type=Item,r=10]", "delay": 120}
+		]
+  }
+}

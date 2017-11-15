@@ -1,0 +1,24 @@
+{
+  "diorite": {
+    "chance": -6,
+    "Block": [
+      {
+        "delay": 0,
+        "xOffSet": -1,
+        "yOffSet": 1,
+        "zOffSet": 2,
+        "relativeToPlayer": false,
+        "block": "minecraft:stone:3",
+        "falling": true
+      }
+    ],
+    "Message": [
+      {
+        "message": "That\u0027s a big Bird Poop!",
+        "delay": 5,
+        "serverWide": false,
+        "range": 25
+      }
+    ]
+  }
+}

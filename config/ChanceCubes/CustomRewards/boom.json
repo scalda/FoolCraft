@@ -1,0 +1,23 @@
+{
+  "boom": {
+    "chance": -56,
+    "isGiantCubeReward": false,
+    "Schematic": [
+      {
+        "fileName": "boom.schematic",
+        "falling": false,
+        "delay": 3,
+        "xOffSet": 0,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "relativeToPlayer": true,
+        "includeAirBlocks": true
+      }
+	],
+
+		"Command":
+		[
+			{"command":"/summon PrimedTnt ~ ~22 ~", "delay": 20}
+		]
+  }
+}

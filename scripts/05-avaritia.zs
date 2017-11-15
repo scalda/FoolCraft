@@ -328,3 +328,87 @@ mods.avaritia.ExtremeCrafting.addShaped(<tconstruct:materials:50>,
 		<avaritia:block_resource>, <avaritia:block_resource>, <avaritia:block_resource>
 	]
 ]);
+
+
+#Creative Storage Upgrade
+mods.avaritia.ExtremeCrafting.addShaped(<storagedrawers:upgradeCreative>,
+[
+    [   null, null, null,
+        <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>,
+        null, null, null
+    ],
+    [   null, <storagedrawers:upgradeStorage:2>, null,
+        null, null, null,
+        null, <storagedrawers:upgradeStorage:2>, null
+    ],
+    [   null, null, <storagedrawers:upgradeStorage:3>,
+        null, <storagedrawers:upgradeVoid>, null,
+        <storagedrawers:upgradeStorage:3>, null, null
+    ],
+    [   <avaritia:resource:1>, null, null,
+        <storagedrawers:upgradeStorage:4>, null, <storagedrawers:upgradeStorage:4>,
+        null, null, <avaritia:resource:1>
+    ],
+    [   <avaritia:resource:1>, null, <storagedrawers:upgradeVoid>,
+        null, <storagedrawers:upgradeTemplate>, null,
+        <storagedrawers:upgradeVoid>, null, <avaritia:resource:1>
+    ],
+    [   <avaritia:resource:1>, null, null,
+        <storagedrawers:upgradeStorage:4>, null, <storagedrawers:upgradeStorage:4>,
+        null, null, <avaritia:resource:1>
+    ],
+    [   null, null, <storagedrawers:upgradeStorage:3>,
+        null, <storagedrawers:upgradeVoid>, null,
+        <storagedrawers:upgradeStorage:3>, null, null
+    ],
+    [   null, <storagedrawers:upgradeStorage:2>, null,
+        null, null, null,
+        null, <storagedrawers:upgradeStorage:2>, null
+    ],
+    [   null, null, null,
+        <avaritia:resource:1>, <avaritia:resource:1>, <avaritia:resource:1>,
+        null, null, null
+    ]
+]);
+
+
+#Creative Drum
+mods.avaritia.ExtremeCrafting.addShaped(<extrautils2:drum:4>, 
+[
+	[	null, null, null, 
+		null, null, null, 
+		null, null, null
+	], 
+	[	null, null, null, 
+		null, null, null, 
+		null, null, null
+	], 
+	[	null, null, null, 
+		<avaritia:resource:6>, <avaritia:resource:6>, <avaritia:resource:6>, 
+		<avaritia:resource:6>, null, null
+	], 
+	[	null, null, null, 
+		<avaritia:resource:4>, <extrautils2:drum:3>, <extrautils2:drum:3>, 
+		<avaritia:resource:4>, null, null
+	], 
+	[	null, null, null, 
+		<avaritia:resource:4>, <extrautils2:drum:3>, <extrautils2:drum:3>, 
+		<avaritia:resource:4>, null, null
+	], 
+	[	null, null, null, 
+		<avaritia:resource:4>, <extrautils2:drum:3>, <extrautils2:drum:3>, 
+		<avaritia:resource:4>, null, null
+	], 
+	[	null, null, null, 
+		<avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>, 
+		<avaritia:resource:4>, null, null
+	], 
+	[	null, null, null, 
+		null, null, null, 
+		null, null, null
+	], 
+	[	null, null, null, 
+		null, null, null, 
+		null, null, null
+	]
+]);

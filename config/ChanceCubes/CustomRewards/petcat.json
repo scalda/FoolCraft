@@ -1,0 +1,21 @@
+{
+  "cat": {
+    "chance": -6,
+    "Command": [
+      {"command": "/summon Ozelot ~ ~1 ~ {CustomName:jellie,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Ozelot ~ ~1 ~ {CustomName:jellie,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Ozelot ~ ~1 ~ {CustomName:jellie,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Ozelot ~ ~1 ~ {CustomName:jellie,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/summon Ozelot ~ ~1 ~ {CustomName:jellie,CustomNameVisible:1}", "delay": 5},
+	  {"command": "/give @p minecraft:fish 16 0", "delay": 5}
+    ],
+    "Message": [
+      {
+        "message": "Make some friends named jellie",
+        "delay": 5,
+        "serverWide": false,
+        "range": 25
+      }
+    ]
+  }
+}

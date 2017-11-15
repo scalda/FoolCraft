@@ -4,16 +4,6 @@
 		{	
 			"type" : "ARMOUR", 
 			"loot" : [
-				{"data" : {"name" : "blockarmor:brick_block_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:brick_block_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:brick_block_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:brick_block_boots"}, "weight" : 3},
-				
-				{"data" : {"name" : "blockarmor:mossy_cobblestone_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:mossy_cobblestone_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:mossy_cobblestone_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:mossy_cobblestone_boots"}, "weight" : 3}
-
 			],
 			"level" : 2,
 			"each" : true,
@@ -94,7 +84,6 @@
 				{"data" : {"name" : "minecraft:obsidian", "min" : 1, "max" : 3}, "weight" : 3},
 				{"data" : {"name" : "chancecubes:chance_Cube"}, "weight" : 1},
 				{"data" : {"name" : "chancecubes:chance_Icosahedron"}, "weight" : 1},
-				{"data" : {"name" : "chickens:spawn_egg", "meta" : 101}, "weight" : 1},
 				{"data" : {"name" : "lootbags:itemlootbag", "meta" : 2}, "weight" : 5}
 
 			],

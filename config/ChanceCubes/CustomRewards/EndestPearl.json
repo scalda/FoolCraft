@@ -1,0 +1,20 @@
+{
+  "Nuke-trap": {
+    "chance": -70,
+    "isGiantCubeReward": false,
+    "Message": [
+      {
+        "message": "I hope this isn\u0027t near to your base!",
+        "delay": 5,
+        "serverWide": true,
+        "range": 25
+      }
+    ],
+    "Command": [
+      {
+        "command": "summon avaritia.EndestPearl",
+        "delay": 5
+      }
+    ]
+  }
+}

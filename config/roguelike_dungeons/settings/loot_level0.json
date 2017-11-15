@@ -4,15 +4,6 @@
 		{	
 			"type" : "ARMOUR", 
 			"loot" : [
-				{"data" : {"name" : "blockarmor:sticky_piston_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:sticky_piston_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:sticky_piston_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:sticky_piston_boots"}, "weight" : 3},
-				
-				{"data" : {"name" : "blockarmor:piston_helmet"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:piston_chestplate"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:piston_leggings"}, "weight" : 3},
-				{"data" : {"name" : "blockarmor:piston_boots"}, "weight" : 3}
 			],
 			"level" : 0,
 			"each" : true,
