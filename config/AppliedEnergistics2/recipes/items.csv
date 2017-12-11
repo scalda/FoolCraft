@@ -567,211 +567,6 @@ moarsigns:nugget:4, Quartz Nugget
 moarsigns:sign_toolbox:0, Sign Toolbox §2(Edit)§r
 weirdinggadget:weirding_gadget, Weirding Gadget
 forge:bucketFilled, %s Bucket
-baubles:Ring:0, item.Ring.0.name
-extrautils2:wateringcan, Watering Can
-extrautils2:itemcreativedestructionwand, Creative Destruction Wand
-extrautils2:itemdestructionwand, Destruction Wand
-extrautils2:soundmuffler, Sound Muffler
-extrautils2:enderlilly, Ender Lilly
-extrautils2:decorativesolidwood:0, Magical Planks
-extrautils2:decorativesolidwood:1, Magical Wood
-extrautils2:decorativesolidwood:2, Diagonal Wood
-extrautils2:trashcan, Trash Can
-extrautils2:trashcanfluid, Trash Can (Fluid)
-extrautils2:trashcanenergy, Trash Can (Energy)
-extrautils2:angelblock, Angel Block
-extrautils2:passivegenerator:0, Solar Panel
-extrautils2:passivegenerator:1, Lunar Panel
-extrautils2:passivegenerator:2, Lava Mill
-extrautils2:passivegenerator:3, Water Mill
-extrautils2:passivegenerator:4, Wind Mill
-extrautils2:passivegenerator:5, Fire Mill
-extrautils2:passivegenerator:6, Creative Mill
-extrautils2:passivegenerator:7, Manual Mill
-extrautils2:passivegenerator:8, Dragon Egg Mill
-extrautils2:supermobspawner, Resturbed Mob Spawner
-extrautils2:cursedearth, Cursed Earth
-extrautils2:redstoneclock, Redstone Clock
-extrautils2:compressedcobblestone:0, Compressed Cobblestone
-extrautils2:compressedcobblestone:1, Double Compressed Cobblestone
-extrautils2:compressedcobblestone:2, Triple Compressed Cobblestone
-extrautils2:compressedcobblestone:3, Quadruple Compressed Cobblestone
-extrautils2:compressedcobblestone:4, Quintuple Compressed Cobblestone
-extrautils2:compressedcobblestone:5, Sextuple Compressed Cobblestone
-extrautils2:compressedcobblestone:6, Septuple Compressed Cobblestone
-extrautils2:compressedcobblestone:7, Octuple Compressed Cobblestone
-extrautils2:compresseddirt:0, Compressed Dirt
-extrautils2:compresseddirt:1, Double Compressed Dirt
-extrautils2:compresseddirt:2, Triple Compressed Dirt
-extrautils2:compresseddirt:3, Quadruple Compressed Dirt
-extrautils2:compressedsand:0, Compressed Sand
-extrautils2:compressedsand:1, Double Compressed Sand
-extrautils2:compressedgravel:0, Compressed Gravel
-extrautils2:compressedgravel:1, Double Compressed Gravel
-extrautils2:compressednetherrack:0, Compressed Netherrack
-extrautils2:compressednetherrack:1, Double Compressed Netherrack
-extrautils2:compressednetherrack:2, Triple Compressed Netherrack
-extrautils2:compressednetherrack:3, Quadruple Compressed Netherrack
-extrautils2:compressednetherrack:4, Quintuple Compressed Netherrack
-extrautils2:compressednetherrack:5, Sextuple Compressed Netherrack
-extrautils2:glasscutter, Glass Cutter
-extrautils2:endershard, Ender Shard
-extrautils2:redorchid, Red Orchid
-extrautils2:sickle_wood, Wooden Sickle
-extrautils2:sickle_stone, Stone Sickle
-extrautils2:sickle_iron, Iron Sickle
-extrautils2:sickle_gold, Golden Sickle
-extrautils2:sickle_diamond, Diamond Sickle
-extrautils2:poweroverload, Power Overload
-extrautils2:resonator, Resonator
-extrautils2:suncrystal, Sun Crystal
-extrautils2:spotlight, Spotlight
-extrautils2:screen, Screen
-extrautils2:decorativesolid:0, Border Stone
-extrautils2:decorativesolid:1, Crossed Stone
-extrautils2:decorativesolid:2, Polished Stone
-extrautils2:decorativesolid:3, Stoneburnt
-extrautils2:decorativesolid:4, Sandy Glass
-extrautils2:decorativesolid:5, Truchet
-extrautils2:decorativesolid:6, Blue Quartz
-extrautils2:ingredients:0, Resonating Redstone Crystal
-extrautils2:ingredients:1, Redstone Gear
-extrautils2:ingredients:2, Eye of Redstone
-extrautils2:ingredients:3, Lunar Reactive Dust
-extrautils2:ingredients:4, Red Coal
-extrautils2:ingredients:5, Moon Stone
-extrautils2:ingredients:6, Upgrade Speed
-extrautils2:ingredients:7, Upgrade Stack
-extrautils2:ingredients:8, Upgrade Mining
-extrautils2:ingredients:9, Upgrade Base
-extrautils2:ingredients:10, Drop of Evil
-extrautils2:ingredients:11, Demon Ingot
-extrautils2:ingredients:12, Enchanted Ingot
-extrautils2:ingredients:13, Wireless RF Heating Coil
-extrautils2:ingredients:14, Blue Dye
-extrautils2:ingredients:15, Upgrade Speed (Magical)
-extrautils2:ingredients:16, Upgrade Speed (Ultimate)
-extrautils2:ingredients:17, Evil Infused Iron Ingot
-extrautils2:goldenlasso:0, Golden Lasso
-extrautils2:goldenlasso:1, Cursed Lasso
-extrautils2:chickenring:0, Chicken Wing Ring
-extrautils2:chickenring:1, Ring of the Flying Squid
-extrautils2:angelring:0, Angel Ring
-extrautils2:angelring:1, Angel Ring
-extrautils2:angelring:2, Angel Ring
-extrautils2:angelring:3, Angel Ring
-extrautils2:angelring:4, Angel Ring
-extrautils2:angelring:5, Angel Ring
-extrautils2:powermanager, Power Manager
-extrautils2:bagofholding, Bag Of Holding
-extrautils2:decorativeglass:0, Thickened Glass
-extrautils2:decorativeglass:1, Thickened Glass (Bordered)
-extrautils2:decorativeglass:2, Thickened Glass (Patterned)
-extrautils2:decorativeglass:3, Dark Glass
-extrautils2:decorativeglass:4, Glowing Glass
-extrautils2:decorativeglass:5, Redstone Glass
-extrautils2:ineffableglass:0, Ethereal Glass
-extrautils2:ineffableglass:1, Reverse Ethereal Glass
-extrautils2:ineffableglass:2, Ineffable Glass
-extrautils2:ineffableglass:3, Dark Ineffable Glass
-extrautils2:pipe, Transfer Pipe
-extrautils2:playerchest, Player Chest
-extrautils2:wrench, Wrench
-extrautils2:boomerang, Magical Boomerang
-extrautils2:book, Extra Utilities 2 Manual
-extrautils2:contract, Contract
-extrautils2:chunkloader, Chunk Loading Ward
-extrautils2:filter, Filter
-extrautils2:filterfluids, Filter Fluids
-extrautils2:grocket:0, Transfer Node (Items)
-extrautils2:grocket:1, Transfer Filter
-extrautils2:grocket:2, Transfer Node (Fluids)
-extrautils2:grocket:3, Retrieval Node (Items)
-extrautils2:grocket:4, Retrieval Node (Fluids)
-extrautils2:grocket:5, Transfer Pipe Filter
-extrautils2:indexer, Indexer
-extrautils2:indexerremote, Indexer Remote
-extrautils2:scanner, Scanner
-extrautils2:miner, Mechanical Miner
-extrautils2:user, Mechanical User
-extrautils2:klein:0, Klein Bottle
-extrautils2:drum:0, Stone Drum
-extrautils2:drum:1, Iron Drum
-extrautils2:drum:2, Reinforced Large Drum
-extrautils2:drum:3, Demonically Gargantuan Drum
-extrautils2:drum:4, Creative Drum
-extrautils2:machine:0, Machine Block
-extrautils2:machine:0, Furnace
-extrautils2:machine:0, Crusher
-extrautils2:machine:0, Enchanter
-extrautils2:machine:0, Survival Generator
-extrautils2:machine:0, Furnace Generator
-extrautils2:machine:0, Culinary Generator
-extrautils2:machine:0, Magmatic Generator
-extrautils2:machine:0, Heated Redstone Generator
-extrautils2:machine:0, Ender Generator
-extrautils2:machine:0, Potion Generator
-extrautils2:machine:0, Pink Generator
-extrautils2:machine:0, Overclocked Generator
-extrautils2:machine:0, Explosive Generator
-extrautils2:machine:0, Netherstar Generator
-extrautils2:machine:0, Halitosis Generator
-extrautils2:machine:0, Frosty Generator
-extrautils2:machine:0, Death Generator
-extrautils2:machine:0, Dischantment Generator
-extrautils2:machine:0, Slimey Generator
-extrautils2:powerbattery, Wireless RF Battery
-extrautils2:powertransmitter, Wireless RF Transmitter
-extrautils2:quarry, Quantum Quarry
-extrautils2:quarryproxy, Quantum Quarry Actuator
-extrautils2:spike_wood, Wooden Spikes
-extrautils2:spike_stone, Stone Spikes
-extrautils2:spike_iron, Iron Spikes
-extrautils2:spike_gold, Golden Spikes
-extrautils2:spike_diamond, Diamond Spikes
-extrautils2:spike_creative, Creative Spikes
-extrautils2:redstonelantern, Redstone Lantern
-extrautils2:largishchest, Slightly-Larger Chest
-extrautils2:minichest, Mini Chest
-extrautils2:rainbowgenerator:0, Rainbow Generator!
-extrautils2:rainbowgenerator:1, Rainbow Generator (bottom half)
-extrautils2:rainbowgenerator:2, Rainbow Generator (top half)
-extrautils2:magicapple, Magical Apple
-extrautils2:simpledecorative:0, Block of Enchanted Metal
-extrautils2:simpledecorative:1, Block of Demon Metal
-extrautils2:simpledecorative:2, Block_evil
-extrautils2:creativechest, Creative Chest
-extrautils2:creativeenergy, Creative Energy Source
-extrautils2:creativeharvest, Creative Harvest
-extrautils2:trowel, Trowel
-extrautils2:biomemarker, Biome Marker
-extrautils2:terraformer:0, Terraformer
-extrautils2:terraformer:1, Antenna
-extrautils2:terraformer:2, Humidifier
-extrautils2:terraformer:3, Dehumidifier
-extrautils2:terraformer:4, Heater
-extrautils2:terraformer:5, Cooler
-extrautils2:terraformer:6, Dehostilifier
-extrautils2:terraformer:7, Magic Absorbtion
-extrautils2:terraformer:8, Magic Infuser
-extrautils2:terraformer:9, Climograph Base Unit
-extrautils2:trashchest, Trash Chest
-extrautils2:opinium:0, Opinium Core (Pathetic)
-extrautils2:opinium:1, Opinium Core (Mediocre)
-extrautils2:opinium:2, Opinium Core (Passable)
-extrautils2:opinium:3, Opinium Core (Decent)
-extrautils2:opinium:4, Opinium Core (Good)
-extrautils2:opinium:5, Opinium Core (Damn Good)
-extrautils2:opinium:6, Opinium Core (Amazing)
-extrautils2:opinium:7, Opinium Core (Inspiring)
-extrautils2:opinium:8, Opinium Core (Perfected)
-extrautils2:lawsword, Kikoku
-extrautils2:flattransfernode:0, Flat Transfer Node (Items)
-extrautils2:flattransfernode:1, Flat Transfer Node (Fluids)
-extrautils2:decorativebedrock:0, Bedrock Bricks
-extrautils2:decorativebedrock:1, Bedrock Slabs
-extrautils2:decorativebedrock:2, Bedrock Cobblestone
-extrautils2:fireaxe, Fire Axe
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -6335,6 +6130,217 @@ appliedenergistics2:part:220, ME Storage Bus
 appliedenergistics2:part:400, ME Storage Monitor
 appliedenergistics2:part:380, ME Terminal
 appliedenergistics2:part:80, ME Toggle Bus
+ae2stuff:Encoder, Pattern Encoder
+ae2stuff:Grower, Crystal Growth Chamber
+ae2stuff:Inscriber, Advanced Inscriber
+ae2stuff:Wireless, Wireless Connector
+ae2stuff:WirelessKit, Wireless Setup Kit
+ae2stuff:Visualiser, Network Visualisation Tool
+baubles:Ring:0, item.Ring.0.name
+extrautils2:wateringcan, Watering Can
+extrautils2:itemcreativedestructionwand, Creative Destruction Wand
+extrautils2:itemdestructionwand, Destruction Wand
+extrautils2:soundmuffler, Sound Muffler
+extrautils2:enderlilly, Ender Lilly
+extrautils2:decorativesolidwood:0, Magical Planks
+extrautils2:decorativesolidwood:1, Magical Wood
+extrautils2:decorativesolidwood:2, Diagonal Wood
+extrautils2:trashcan, Trash Can
+extrautils2:trashcanfluid, Trash Can (Fluid)
+extrautils2:trashcanenergy, Trash Can (Energy)
+extrautils2:angelblock, Angel Block
+extrautils2:passivegenerator:0, Solar Panel
+extrautils2:passivegenerator:1, Lunar Panel
+extrautils2:passivegenerator:2, Lava Mill
+extrautils2:passivegenerator:3, Water Mill
+extrautils2:passivegenerator:4, Wind Mill
+extrautils2:passivegenerator:5, Fire Mill
+extrautils2:passivegenerator:6, Creative Mill
+extrautils2:passivegenerator:7, Manual Mill
+extrautils2:passivegenerator:8, Dragon Egg Mill
+extrautils2:supermobspawner, Resturbed Mob Spawner
+extrautils2:cursedearth, Cursed Earth
+extrautils2:redstoneclock, Redstone Clock
+extrautils2:compressedcobblestone:0, Compressed Cobblestone
+extrautils2:compressedcobblestone:1, Double Compressed Cobblestone
+extrautils2:compressedcobblestone:2, Triple Compressed Cobblestone
+extrautils2:compressedcobblestone:3, Quadruple Compressed Cobblestone
+extrautils2:compressedcobblestone:4, Quintuple Compressed Cobblestone
+extrautils2:compressedcobblestone:5, Sextuple Compressed Cobblestone
+extrautils2:compressedcobblestone:6, Septuple Compressed Cobblestone
+extrautils2:compressedcobblestone:7, Octuple Compressed Cobblestone
+extrautils2:compresseddirt:0, Compressed Dirt
+extrautils2:compresseddirt:1, Double Compressed Dirt
+extrautils2:compresseddirt:2, Triple Compressed Dirt
+extrautils2:compresseddirt:3, Quadruple Compressed Dirt
+extrautils2:compressedsand:0, Compressed Sand
+extrautils2:compressedsand:1, Double Compressed Sand
+extrautils2:compressedgravel:0, Compressed Gravel
+extrautils2:compressedgravel:1, Double Compressed Gravel
+extrautils2:compressednetherrack:0, Compressed Netherrack
+extrautils2:compressednetherrack:1, Double Compressed Netherrack
+extrautils2:compressednetherrack:2, Triple Compressed Netherrack
+extrautils2:compressednetherrack:3, Quadruple Compressed Netherrack
+extrautils2:compressednetherrack:4, Quintuple Compressed Netherrack
+extrautils2:compressednetherrack:5, Sextuple Compressed Netherrack
+extrautils2:glasscutter, Glass Cutter
+extrautils2:endershard, Ender Shard
+extrautils2:redorchid, Red Orchid
+extrautils2:sickle_wood, Wooden Sickle
+extrautils2:sickle_stone, Stone Sickle
+extrautils2:sickle_iron, Iron Sickle
+extrautils2:sickle_gold, Golden Sickle
+extrautils2:sickle_diamond, Diamond Sickle
+extrautils2:poweroverload, Power Overload
+extrautils2:resonator, Resonator
+extrautils2:suncrystal, Sun Crystal
+extrautils2:spotlight, Spotlight
+extrautils2:screen, Screen
+extrautils2:decorativesolid:0, Border Stone
+extrautils2:decorativesolid:1, Crossed Stone
+extrautils2:decorativesolid:2, Polished Stone
+extrautils2:decorativesolid:3, Stoneburnt
+extrautils2:decorativesolid:4, Sandy Glass
+extrautils2:decorativesolid:5, Truchet
+extrautils2:decorativesolid:6, Blue Quartz
+extrautils2:ingredients:0, Resonating Redstone Crystal
+extrautils2:ingredients:1, Redstone Gear
+extrautils2:ingredients:2, Eye of Redstone
+extrautils2:ingredients:3, Lunar Reactive Dust
+extrautils2:ingredients:4, Red Coal
+extrautils2:ingredients:5, Moon Stone
+extrautils2:ingredients:6, Upgrade Speed
+extrautils2:ingredients:7, Upgrade Stack
+extrautils2:ingredients:8, Upgrade Mining
+extrautils2:ingredients:9, Upgrade Base
+extrautils2:ingredients:10, Drop of Evil
+extrautils2:ingredients:11, Demon Ingot
+extrautils2:ingredients:12, Enchanted Ingot
+extrautils2:ingredients:13, Wireless RF Heating Coil
+extrautils2:ingredients:14, Blue Dye
+extrautils2:ingredients:15, Upgrade Speed (Magical)
+extrautils2:ingredients:16, Upgrade Speed (Ultimate)
+extrautils2:ingredients:17, Evil Infused Iron Ingot
+extrautils2:goldenlasso:0, Golden Lasso
+extrautils2:goldenlasso:1, Cursed Lasso
+extrautils2:chickenring:0, Chicken Wing Ring
+extrautils2:chickenring:1, Ring of the Flying Squid
+extrautils2:angelring:0, Angel Ring
+extrautils2:angelring:1, Angel Ring
+extrautils2:angelring:2, Angel Ring
+extrautils2:angelring:3, Angel Ring
+extrautils2:angelring:4, Angel Ring
+extrautils2:angelring:5, Angel Ring
+extrautils2:powermanager, Power Manager
+extrautils2:bagofholding, Bag Of Holding
+extrautils2:decorativeglass:0, Thickened Glass
+extrautils2:decorativeglass:1, Thickened Glass (Bordered)
+extrautils2:decorativeglass:2, Thickened Glass (Patterned)
+extrautils2:decorativeglass:3, Dark Glass
+extrautils2:decorativeglass:4, Glowing Glass
+extrautils2:decorativeglass:5, Redstone Glass
+extrautils2:ineffableglass:0, Ethereal Glass
+extrautils2:ineffableglass:1, Reverse Ethereal Glass
+extrautils2:ineffableglass:2, Ineffable Glass
+extrautils2:ineffableglass:3, Dark Ineffable Glass
+extrautils2:pipe, Transfer Pipe
+extrautils2:playerchest, Player Chest
+extrautils2:wrench, Wrench
+extrautils2:boomerang, Magical Boomerang
+extrautils2:book, Extra Utilities 2 Manual
+extrautils2:contract, Contract
+extrautils2:chunkloader, Chunk Loading Ward
+extrautils2:filter, Filter
+extrautils2:filterfluids, Filter Fluids
+extrautils2:grocket:0, Transfer Node (Items)
+extrautils2:grocket:1, Transfer Filter
+extrautils2:grocket:2, Transfer Node (Fluids)
+extrautils2:grocket:3, Retrieval Node (Items)
+extrautils2:grocket:4, Retrieval Node (Fluids)
+extrautils2:grocket:5, Transfer Pipe Filter
+extrautils2:indexer, Indexer
+extrautils2:indexerremote, Indexer Remote
+extrautils2:scanner, Scanner
+extrautils2:miner, Mechanical Miner
+extrautils2:user, Mechanical User
+extrautils2:klein:0, Klein Bottle
+extrautils2:drum:0, Stone Drum
+extrautils2:drum:1, Iron Drum
+extrautils2:drum:2, Reinforced Large Drum
+extrautils2:drum:3, Demonically Gargantuan Drum
+extrautils2:drum:4, Creative Drum
+extrautils2:machine:0, Machine Block
+extrautils2:machine:0, Furnace
+extrautils2:machine:0, Crusher
+extrautils2:machine:0, Enchanter
+extrautils2:machine:0, Survival Generator
+extrautils2:machine:0, Furnace Generator
+extrautils2:machine:0, Culinary Generator
+extrautils2:machine:0, Magmatic Generator
+extrautils2:machine:0, Heated Redstone Generator
+extrautils2:machine:0, Ender Generator
+extrautils2:machine:0, Potion Generator
+extrautils2:machine:0, Pink Generator
+extrautils2:machine:0, Overclocked Generator
+extrautils2:machine:0, Explosive Generator
+extrautils2:machine:0, Netherstar Generator
+extrautils2:machine:0, Halitosis Generator
+extrautils2:machine:0, Frosty Generator
+extrautils2:machine:0, Death Generator
+extrautils2:machine:0, Dischantment Generator
+extrautils2:machine:0, Slimey Generator
+extrautils2:powerbattery, Wireless RF Battery
+extrautils2:powertransmitter, Wireless RF Transmitter
+extrautils2:quarry, Quantum Quarry
+extrautils2:quarryproxy, Quantum Quarry Actuator
+extrautils2:spike_wood, Wooden Spikes
+extrautils2:spike_stone, Stone Spikes
+extrautils2:spike_iron, Iron Spikes
+extrautils2:spike_gold, Golden Spikes
+extrautils2:spike_diamond, Diamond Spikes
+extrautils2:spike_creative, Creative Spikes
+extrautils2:redstonelantern, Redstone Lantern
+extrautils2:largishchest, Slightly-Larger Chest
+extrautils2:minichest, Mini Chest
+extrautils2:rainbowgenerator:0, Rainbow Generator!
+extrautils2:rainbowgenerator:1, Rainbow Generator (bottom half)
+extrautils2:rainbowgenerator:2, Rainbow Generator (top half)
+extrautils2:magicapple, Magical Apple
+extrautils2:simpledecorative:0, Block of Enchanted Metal
+extrautils2:simpledecorative:1, Block of Demon Metal
+extrautils2:simpledecorative:2, Block_evil
+extrautils2:creativechest, Creative Chest
+extrautils2:creativeenergy, Creative Energy Source
+extrautils2:creativeharvest, Creative Harvest
+extrautils2:trowel, Trowel
+extrautils2:biomemarker, Biome Marker
+extrautils2:terraformer:0, Terraformer
+extrautils2:terraformer:1, Antenna
+extrautils2:terraformer:2, Humidifier
+extrautils2:terraformer:3, Dehumidifier
+extrautils2:terraformer:4, Heater
+extrautils2:terraformer:5, Cooler
+extrautils2:terraformer:6, Dehostilifier
+extrautils2:terraformer:7, Magic Absorbtion
+extrautils2:terraformer:8, Magic Infuser
+extrautils2:terraformer:9, Climograph Base Unit
+extrautils2:trashchest, Trash Chest
+extrautils2:opinium:0, Opinium Core (Pathetic)
+extrautils2:opinium:1, Opinium Core (Mediocre)
+extrautils2:opinium:2, Opinium Core (Passable)
+extrautils2:opinium:3, Opinium Core (Decent)
+extrautils2:opinium:4, Opinium Core (Good)
+extrautils2:opinium:5, Opinium Core (Damn Good)
+extrautils2:opinium:6, Opinium Core (Amazing)
+extrautils2:opinium:7, Opinium Core (Inspiring)
+extrautils2:opinium:8, Opinium Core (Perfected)
+extrautils2:lawsword, Kikoku
+extrautils2:flattransfernode:0, Flat Transfer Node (Items)
+extrautils2:flattransfernode:1, Flat Transfer Node (Fluids)
+extrautils2:decorativebedrock:0, Bedrock Bricks
+extrautils2:decorativebedrock:1, Bedrock Slabs
+extrautils2:decorativebedrock:2, Bedrock Cobblestone
+extrautils2:fireaxe, Fire Axe
 astralsorcery:ItemCraftingComponent:0, Aquamarine
 astralsorcery:ItemCraftingComponent:1, Starmetal Ingot
 astralsorcery:ItemCraftingComponent:2, Stardust
@@ -10155,6 +10161,20 @@ chiselsandbits:block_bit:0, Chiseled Bit - End Stone Bricks
 chiselsandbits:block_bit:0, Chiseled Bit - Nether Wart Block
 chiselsandbits:block_bit:0, Chiseled Bit - Red Nether Brick
 chiselsandbits:block_bit:0, Chiseled Bit - Bone Block Up/Down
+chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Charged Certus Quartz Ore
+chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Block
+chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Pillar East/West
+chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Certus Quartz Block
+chiselsandbits:block_bit:0, Chiseled Bit - Quartz Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Vibrant Quartz Glass
+chiselsandbits:block_bit:0, Chiseled Bit - Charged Quartz Fixture Down
+chiselsandbits:block_bit:0, Chiseled Bit - Fluix Block
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Block
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Small Brick
+chiselsandbits:block_bit:0, Chiseled Bit - Tiny TNT
 chiselsandbits:block_bit:0, Chiseled Bit - Magical Planks
 chiselsandbits:block_bit:0, Chiseled Bit - Magical Wood
 chiselsandbits:block_bit:0, Chiseled Bit - Diagonal Wood
@@ -10198,20 +10218,6 @@ chiselsandbits:block_bit:0, Chiseled Bit - Redstone Glass
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Enchanted Metal
 chiselsandbits:block_bit:0, Chiseled Bit - Block of Demon Metal
 chiselsandbits:block_bit:0, Chiseled Bit - Block_evil
-chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Charged Certus Quartz Ore
-chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Block
-chiselsandbits:block_bit:0, Chiseled Bit - Certus Quartz Pillar East/West
-chiselsandbits:block_bit:0, Chiseled Bit - Chiseled Certus Quartz Block
-chiselsandbits:block_bit:0, Chiseled Bit - Quartz Glass
-chiselsandbits:block_bit:0, Chiseled Bit - Vibrant Quartz Glass
-chiselsandbits:block_bit:0, Chiseled Bit - Charged Quartz Fixture Down
-chiselsandbits:block_bit:0, Chiseled Bit - Fluix Block
-chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone
-chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Block
-chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Brick
-chiselsandbits:block_bit:0, Chiseled Bit - Sky Stone Small Brick
-chiselsandbits:block_bit:0, Chiseled Bit - Tiny TNT
 chiselsandbits:block_bit:0, Chiseled Bit - Rock Crystal Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Starmetal Ore
 chiselsandbits:block_bit:0, Chiseled Bit - Aquamarine Shale
@@ -24624,34 +24630,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Battery Cell Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pipe Piece Pattern
-tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pipe Piece Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Binding Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Battery Cell Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
 tconstruct:pattern:0, Laser Medium Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:shard:0, Amethyst Shard
 tconstruct:shard:0, Darkwood Shard
 tconstruct:shard:0, Dark Steel Shard
@@ -25493,70 +25499,70 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Battery Cell Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pipe Piece Cast
-tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Fletching Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Arrow Shaft Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pipe Piece Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Fletching Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Tool Rod Cast
 tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Battery Cell Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Knife Blade Cast
 tconstruct:cast:0, Laser Medium Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Battery Cell Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pipe Piece Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Fletching Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pipe Piece Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Fletching Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Battery Cell Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
 tconstruct:clay_cast:0, Laser Medium Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -28791,6 +28797,17 @@ thermaldynamics:cover:0, Magma Block Cover
 thermaldynamics:cover:0, Nether Wart Block Cover
 thermaldynamics:cover:0, Red Nether Brick Cover
 thermaldynamics:cover:0, Bone Block Cover
+thermaldynamics:cover:0, Certus Quartz Ore Cover
+thermaldynamics:cover:0, Charged Certus Quartz Ore Cover
+thermaldynamics:cover:0, Certus Quartz Block Cover
+thermaldynamics:cover:0, Certus Quartz Pillar Cover
+thermaldynamics:cover:0, Chiseled Certus Quartz Block Cover
+thermaldynamics:cover:0, Fluix Block Cover
+thermaldynamics:cover:0, Sky Stone Cover
+thermaldynamics:cover:0, Sky Stone Block Cover
+thermaldynamics:cover:0, Sky Stone Brick Cover
+thermaldynamics:cover:0, Sky Stone Small Brick Cover
+thermaldynamics:cover:0, Tiny TNT Cover
 thermaldynamics:cover:0, Magical Planks Cover
 thermaldynamics:cover:0, Magical Wood Cover
 thermaldynamics:cover:0, Diagonal Wood Cover
@@ -28838,17 +28855,6 @@ thermaldynamics:cover:0, Block_evil Cover
 thermaldynamics:cover:0, Bedrock Bricks Cover
 thermaldynamics:cover:0, Bedrock Slabs Cover
 thermaldynamics:cover:0, Bedrock Cobblestone Cover
-thermaldynamics:cover:0, Certus Quartz Ore Cover
-thermaldynamics:cover:0, Charged Certus Quartz Ore Cover
-thermaldynamics:cover:0, Certus Quartz Block Cover
-thermaldynamics:cover:0, Certus Quartz Pillar Cover
-thermaldynamics:cover:0, Chiseled Certus Quartz Block Cover
-thermaldynamics:cover:0, Fluix Block Cover
-thermaldynamics:cover:0, Sky Stone Cover
-thermaldynamics:cover:0, Sky Stone Block Cover
-thermaldynamics:cover:0, Sky Stone Brick Cover
-thermaldynamics:cover:0, Sky Stone Small Brick Cover
-thermaldynamics:cover:0, Tiny TNT Cover
 thermaldynamics:cover:0, Rock Crystal Ore Cover
 thermaldynamics:cover:0, Starmetal Ore Cover
 thermaldynamics:cover:0, Aquamarine Shale Cover
@@ -34578,9 +34584,3 @@ minimoos:miniwheat, Mini Wheat
 minimoos:moocatalogue, Fluid Moo Catalogue
 minimoos:moocatalogue.creative, Fluid Moo Catalogue - §6Creative Edition
 minimoos:forsakenfruit, §5Forsaken Fruit
-flyringbaublemod:AngelRing:0, Angel Ring
-flyringbaublemod:AngelRing:1, Angel Ring
-flyringbaublemod:AngelRing:2, Angel Ring
-flyringbaublemod:AngelRing:3, Angel Ring
-flyringbaublemod:AngelRing:4, Angel Ring
-flyringbaublemod:AngelRing:5, Angel Ring

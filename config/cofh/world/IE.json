@@ -1,0 +1,24 @@
+{
+  "populate": {
+    "Uranium": {
+      "distribution": "uniform",
+      "generator": {
+        "block": "immersiveengineering:ore:5",
+        "material": "minecraft:stone",
+        "cluster-size": 6
+      },
+      "cluster-count": 12,
+      "min-height": 0,
+      "max-height": 14,
+      "retrogen": false,
+      "biome": "all",
+      "dimension": {
+        "restriction": "blacklist",
+        "value": [
+          -1,
+          1
+        ]
+      }
+    }
+  }
+}

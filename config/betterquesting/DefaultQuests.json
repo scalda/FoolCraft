@@ -7,7 +7,7 @@
       "livesDef": 3,
       "hardcore": false,
       "home_image": "foolcraft:textures/gui/questfront.png",
-      "editMode": true,
+      "editMode": false,
       "home_offset_x": 0,
       "home_offset_y": 0
     }
@@ -17370,15 +17370,73 @@
           "repeatTime": -1,
           "globalShare": false,
           "questLogic": "AND",
-          "name": "New Quest",
+          "name": "Exploration",
           "lockedProgress": false,
           "autoClaim": false,
           "isSilent": false,
-          "desc": "No Description"
+          "desc": "§8§7§8§khello\n§8\nh.... HE... Hello can you hear me?\nGood the connection is stable.Bad news XFALBEEF the other teams have been on my radar for a while, and it seems they are preparing for the battle. I wish i could tell you more but this is where i will need you go and scout the other bases and return me some info, we need to prepare to before it is to late\n§k\nhello\n\n§a§l§nBe sure to take a look at the second tab in the rewards section as there you will be given the option to choose one of two items, each item allows you to do a different quest path, choose wisely."
         }
       },
-      "tasks": [],
-      "rewards": [],
+      "tasks": [
+        {
+          "taskID": "bq_standard:checkbox",
+          "index": 0
+        }
+      ],
+      "rewards": [
+        {
+          "rewards": [
+            {
+              "id": "props:props",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 172,
+              "tag": {
+                "RepairCost:3": 0,
+                "display:10": {
+                  "Name:8": "three dimensional Cuboid world"
+                }
+              }
+            }
+          ],
+          "rewardID": "bq_standard:item",
+          "index": 0
+        },
+        {
+          "choices": [
+            {
+              "id": "minecraft:slime",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "display:10": {
+                  "Lore:9": {
+                    "8": "THis item is required to start the left scouting mission"
+                  },
+                  "Name:8": "Doctor 00"
+                }
+              }
+            },
+            {
+              "id": "minecraft:bone",
+              "Count": 1,
+              "OreDict": "",
+              "Damage": 0,
+              "tag": {
+                "display:10": {
+                  "Lore:9": {
+                    "8": "Required to start the right scouting mission"
+                  },
+                  "Name:8": "GoodTimesWithStress"
+                }
+              }
+            }
+          ],
+          "rewardID": "bq_standard:choice",
+          "index": 1
+        }
+      ],
       "preRequisites": [],
       "questID": 141
     },
