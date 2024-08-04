@@ -9,53 +9,20 @@ The following is an example of what the json file should look like (See further 
 [
     {
         "mode": "ADD",
-        "result": "[minecraft:beacon]",
-        "catalyst": "[minecraft:nether_star]",
-        "energy": 1000,
-        "tier": 1,
+        "result": "[infinitycraft:power_stone]",
+        "catalyst": "[draconicadditions:draconic_reactor]",
+        "energy": 1000000000000,
+        "tier": 3,
         "ingredients": [
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:glass]",
-            "[minecraft:obsidian]"
+            "[draconicddditions:chaotic_core]",
+            "[mysticalaggriculture:supremium_essence]",
+            "[ironchests:obsidian_chest]",
+            "[appliedenergistics2:64k_storage_cell]",
+            "[draconicadditions:chaos_shard]",
+            "[draconicevolution:dragon_heart]"
         ]
-    },
-    {
-        "mode": "ADD",
-        "result": "2x[minecraft:golden_apple]:1",
-        "catalyst": "2x[minecraft:golden_apple]",
-        "energy": 1000,
-        "tier": 1,
-        "ingredients": [
-            "[oreGold]",
-            "[blockGold]",
-            "[ingotGold]",
-            "[nuggetGold]"
-        ]
-    },
-    {
-        "mode": "REMOVE",
-        "result": "[draconicevolution:draconic_staff_of_power]",
-        "catalyst": "[draconicevolution:draconic_pick]",
-        "ingredients": [
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_ingot]",
-            "[draconicevolution:draconic_shovel]",
-            "[draconicevolution:draconic_sword]",
-            "[draconicevolution:awakened_core]"
-        ]
-    },
-    {
-        "mode": "REMOVE",
-        "result": "[draconicevolution:draconic_shovel]",
-        "catalyst": "[draconicevolution:wyvern_shovel]"
-    }    
-]
+    }
+    
 
 
 The above json adds 2 recipes for vanilla items and removes 2 recipes from Draconic Evolution. It should be fairly clear how those examples work
